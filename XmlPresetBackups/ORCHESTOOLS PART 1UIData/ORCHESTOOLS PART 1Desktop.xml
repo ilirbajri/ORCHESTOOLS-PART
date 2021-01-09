@@ -1,0 +1,1923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ContentProperties DeviceType="Desktop">
+  <Component type="ScriptPanel" id="ScriptPanel1" x="0" y="0" width="686"
+             height="551" bgColour="16777215" itemColour="994342040" itemColour2="1028735774"
+             textColour="1398890849" borderRadius="0"/>
+  <Component type="ScriptPanel" id="SAMPLEPANEL" x="1" y="1" width="270" height="211"
+             textColour="1849510211" borderRadius="1" itemColour2="1161456779"
+             itemColour="1159537199" bgColour="1159537199" borderSize="1.4">
+    <Component type="ScriptLabel" id="darkbckg21" x="7" y="16" parentComponent="SAMPLEPANEL"
+               width="126" height="26" bgColour="3456113686" itemColour="4280038192"
+               text="" itemColour2="4294967295" textColour="0" enabled="0"/>
+    <Component type="ScriptLabel" id="darkbckg20" x="14" y="23" parentComponent="SAMPLEPANEL"
+               width="115" height="14" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="darkbckg9" x="7" y="59" parentComponent="SAMPLEPANEL"
+               width="126" height="147" bgColour="3456113686" itemColour="4280038192"
+               enabled="0" text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="darkbckg12" x="14" y="194" parentComponent="SAMPLEPANEL"
+               width="115" height="8" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="darkbckg13" x="14" y="180" parentComponent="SAMPLEPANEL"
+               width="115" height="8" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="darkbckg14" x="14" y="166" parentComponent="SAMPLEPANEL"
+               width="115" height="8" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="darkbckg15" x="14" y="121" parentComponent="SAMPLEPANEL"
+               width="115" height="8" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="darkbckg16" x="14" y="107" parentComponent="SAMPLEPANEL"
+               width="115" height="8" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="darkbckg17" x="14" y="144" parentComponent="SAMPLEPANEL"
+               width="98" height="8" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="darkbckg18" x="31" y="83" parentComponent="SAMPLEPANEL"
+               width="80" height="8" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="darkbckg19" x="31" y="67" parentComponent="SAMPLEPANEL"
+               width="80" height="8" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="darkbckg1" x="135" y="16" parentComponent="SAMPLEPANEL"
+               width="126" height="190" bgColour="3456113686" itemColour="4280038192"
+               enabled="0" text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="darkbckg7" x="142" y="24" parentComponent="SAMPLEPANEL"
+               width="98" height="8" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="darkbckg8" x="159" y="38" parentComponent="SAMPLEPANEL"
+               width="81" height="8" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="darkbckg2" x="143" y="55" parentComponent="SAMPLEPANEL"
+               width="16" height="118" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="darkbckg3" x="167" y="55" parentComponent="SAMPLEPANEL"
+               width="16" height="118" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="darkbckg4" x="191" y="55" parentComponent="SAMPLEPANEL"
+               width="16" height="118" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="darkbckg5" x="215" y="55" parentComponent="SAMPLEPANEL"
+               width="16" height="118" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="darkbckg6" x="239" y="55" parentComponent="SAMPLEPANEL"
+               width="16" height="118" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="darkbckg10" x="143" y="180" parentComponent="SAMPLEPANEL"
+               width="113" height="8" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="darkbckg11" x="143" y="194" parentComponent="SAMPLEPANEL"
+               width="113" height="8" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="bttnbckg inv 1" x="243" y="22" width="13"
+               height="24" parentComponent="SAMPLEPANEL" text="" bgColour="1905615128"
+               editable="0"/>
+    <Component type="ScriptLabel" id="bttnbckg inv 3" x="140" y="36" width="13"
+               height="10" parentComponent="SAMPLEPANEL" text="" bgColour="1905615128"
+               editable="0"/>
+    <Component type="ScriptLabel" id="bttnbckg inv 4" x="115" y="65" width="13"
+               height="26" parentComponent="SAMPLEPANEL" text="" bgColour="1905615128"
+               editable="0"/>
+    <Component type="ScriptLabel" id="bttnbckg inv 5" x="11" y="65" width="13"
+               height="26" parentComponent="SAMPLEPANEL" text="" bgColour="1905615128"
+               editable="0"/>
+    <Component type="ScriptLabel" id="bttnbckg inv 9" x="115" y="142" width="13"
+               height="10" parentComponent="SAMPLEPANEL" text="" bgColour="1905615128"
+               editable="0"/>
+    <Component type="ScriptSlider" id="L1 UNISONO" x="11" y="164" style="Horizontal"
+               width="118" height="10" processorId="L1" parameterId="UnisonoVoiceAmount"
+               itemColour2="1902273122" itemColour="3344653147" bgColour="1531858510"
+               max="8" stepSize="1" textColour="0" showValuePopup="Below" parentComponent="SAMPLEPANEL"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="L2 UNISONO2" x="0" y="0" text="UNISONO"
+                 width="50" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 alignment="left" editable="0" macroControl="No MacroControl"
+                 parentComponent="L1 UNISONO" fontStyle="Bold" enabled="0" textColour="2734686207"/>
+    </Component>
+    <Component type="ScriptSlider" id="L1 DETUNE" x="11" y="178" style="Horizontal"
+               width="118" height="10" processorId="L1" parameterId="UnisonoDetune"
+               textColour="0" itemColour2="1902273122" itemColour="3344653147"
+               bgColour="1531858510" max="6" middlePosition="1" showValuePopup="Below"
+               parentComponent="SAMPLEPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="L2 DETUNE2" x="0" y="0" text="DETUNE"
+                 width="50" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 alignment="left" editable="0" macroControl="No MacroControl"
+                 parentComponent="L1 DETUNE" fontStyle="Bold" enabled="0" textColour="2734686207"/>
+    </Component>
+    <Component type="ScriptSlider" id="L1 SPREAD" x="11" y="192" style="Horizontal"
+               width="118" height="10" processorId="L1" parameterId="UnisonoSpread"
+               textColour="0" itemColour2="1902273122" itemColour="3344653147"
+               bgColour="1531858510" max="2" middlePosition="1" defaultValue="2"
+               showValuePopup="Below" parentComponent="SAMPLEPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="L2 SPREAD2" x="0" y="0" text="SPREAD"
+                 width="50" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 alignment="left" editable="0" macroControl="No MacroControl"
+                 parentComponent="L1 SPREAD" fontStyle="Bold" enabled="0" textColour="2734686207"/>
+    </Component>
+    <Component type="ScriptComboBox" id="LAYER1INSTRUMENT" x="11" y="20" max="136"
+               items="BASS 1&#10;BASS 2&#10;BASS 3&#10;BASS 4&#10;BASSON&#10;BRASS 1&#10;BRASS 2&#10;BRASS 3&#10;BRASS 4&#10;BRASS STCC1&#10;BRASS STCC2&#10;CELLI 1&#10;CELLI 2&#10;CELLI 3&#10;CELLI 4&#10;CELLI 5&#10;CELLI 6 DBL1&#10;CELLI 7 DBL2&#10;CELLI 8 ATTACK&#10;CELLI 9 SPICC&#10;EMPTY&#10;FLUTE 1&#10;FLUTE 2&#10;FLUTE 3&#10;FLUTE 4 THRILL&#10;GLOCK&#10;HARP 1&#10;HARP 2&#10;HARP 3&#10;HORN 1&#10;HORN 2&#10;MARIMBA&#10;NOISES 1&#10;NOISES 2&#10;NOISES 3&#10;NOISES 4&#10;OBOE&#10;OBOE STACC&#10;PAD 1 VIB&#10;PAD 2 HARM&#10;PERCMENU 1&#10;PERCMENU 2&#10;PERCMENU 3&#10;PERCMENU 4&#10;PERCMENU 5 SNR&#10;PLUCK&#10;RHODES&#10;SD_BASS PIX&#10;SD_BASS PIZZ&#10;SD_BRASS DBL&#10;SD_OBOE&#10;SD_PIPES&#10;SD_VIBES&#10;SSL_AGOGO&#10;SSL_ALIEN&#10;SSL_BASSY&#10;SSL_BELLFX&#10;SSL_BELLY&#10;SSL_BRASS 1&#10;SSL_BRASS 2&#10;SSL_BRASS 3&#10;SSL_BRASS 4&#10;SSL_BRASS 5&#10;SSL_CELLO 1&#10;SSL_CELLO 2&#10;SSL_CELLO 3 PIZZ&#10;SSL_CELLO 4 ATTACK&#10;SSL_EUPHON&#10;SSL_FLUTE 1&#10;SSL_FLUTE 2&#10;SSL_GONG&#10;SSL_HARMPAD&#10;SSL_HARPSIN 1&#10;SSL_HARPSIN 2&#10;SSL_HARPSIN 3&#10;SSL_HITATTACK 1&#10;SSL_HITATTACK 2&#10;SSL_HORN LONG&#10;SSL_OBOE 1&#10;SSL_OBOE 2&#10;SSL_PIZZ&#10;SSL_SFZ 1&#10;SSL_SFZ 2&#10;SSL_SHORT&#10;SSL_TROMBONE&#10;SSL_TRUMP 1&#10;SSL_TRUMP 2&#10;SSL_TUBE 1&#10;SSL_TUBE 2&#10;SSL_TUBE 3&#10;SSL_TUBE 4&#10;SSL_TUBE 5&#10;SSL_TUBE 6&#10;SSL_VIBES 1&#10;SSL_VIBES 2&#10;SSL_VIBES 3&#10;SSL_VIBES 4&#10;SSL_VIBES 5&#10;SSL_VIOLA 1&#10;SSL_VIOLA 2&#10;SSL_VIOLA 3&#10;SSL_VIOLA 4&#10;SSL_VIOLA 5&#10;SSL_XYLOBELL&#10;SS_BELLY&#10;SS_BOWED&#10;SS_HIPIANO&#10;SS_HITNOISE&#10;SS_NUTS&#10;SS_PIANET&#10;SS_PIONE&#10;SS_PLUCKY&#10;SS_VIBE&#10;SS_VIBEBOW&#10;SS_WOODY&#10;SS_XYLO&#10;TIMPANES&#10;TRUMPET&#10;TUBA SFZ&#10;TUBA STACC&#10;TUBULAR&#10;TX81CLAVI&#10;TX81FMPIANO&#10;TX81PIANO&#10;VIBES&#10;VIBES DBL&#10;VIOLAS 1&#10;VIOLAS 2&#10;VIOLAS 3&#10;VIOLAS 4 ATTACK&#10;VIOLINS 1&#10;VIOLINS 2&#10;VIOLINS 3&#10;VIOLINS 4&#10;VIOLINS HARMNX&#10;XYLO"
+               width="118" height="20" bgColour="1024082770" itemColour="1531858510"
+               itemColour2="4279975253" textColour="2726015169" parentComponent="SAMPLEPANEL"
+               fontStyle="Regular" fontSize="12" text="LAYER1"/>
+    <Component type="ScriptLabel" id="LAYER 1 label" x="16" y="35" width="64"
+               height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+               textColour="4288991197" text="INSTRUMENT" editable="0" alignment="left"
+               macroControl="No MacroControl" parentComponent="SAMPLEPANEL"
+               fontStyle="Bold" enabled="0" visible="0"/>
+    <Component type="ScriptButton" id="L1_VELOCITY SAMPLESTART INVERT" x="115"
+               y="67" processorId="VEL SS1" parameterId="Inverted" width="15"
+               height="10" bgColour="5789784" itemColour="1513239" itemColour2="5577499"
+               filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="SAMPLEPANEL"/>
+    <Component type="ScriptLabel" id="L1 VSS INVERT" x="110" y="50" text="INV"
+               width="25" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+               editable="0" macroControl="No MacroControl" parentComponent="SAMPLEPANEL"
+               alignment="left" enabled="0" fontStyle="Bold" textColour="2734686207"/>
+    <Component type="ScriptButton" id="L1_VELOCITY SAMPLESTART ENABLE" x="11"
+               y="67" processorId="VEL SS1" parameterId="Enabled" width="15"
+               height="10" bgColour="5789784" itemColour="1513239" itemColour2="5577499"
+               filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="SAMPLEPANEL"/>
+    <Component type="ScriptSlider" id="L1_VELOCITY SAMPLESTART INTENSITY" x="28"
+               y="65" style="Horizontal" width="83" height="10" processorId="VEL SS1"
+               parameterId="Intensity" bgColour="1531858510" itemColour="4114242597"
+               itemColour2="710844621" textColour="3157259" showValuePopup="Below"
+               parentComponent="SAMPLEPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="L1 VEL SS" x="0" y="0" text="VELOCITY START"
+                 width="85" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 alignment="left" editable="0" macroControl="No MacroControl"
+                 parentComponent="L1_VELOCITY SAMPLESTART INTENSITY" fontStyle="Bold"
+                 enabled="0" textColour="2734686207"/>
+    </Component>
+    <Component type="ScriptButton" id="L1_RANDOM SAMPLESTART ENABLE" x="11"
+               y="83" processorId="RND SS1" parameterId="Enabled" width="15"
+               height="10" itemColour2="5577499" itemColour="1513239" bgColour="5789784"
+               filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="SAMPLEPANEL"/>
+    <Component type="ScriptSlider" id="L1_RANDOM SAMPLESTART INTENSITY" x="28"
+               y="81" style="Horizontal" width="83" height="10" processorId="RND SS1"
+               parameterId="Intensity" textColour="3157259" itemColour2="710844621"
+               itemColour="4114242597" bgColour="1531858510" showValuePopup="Below"
+               parentComponent="SAMPLEPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="L1 RND SS1" x="0" y="0" text="RANDOM START"
+                 width="85" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 alignment="left" editable="0" macroControl="No MacroControl"
+                 parentComponent="L1_RANDOM SAMPLESTART INTENSITY" fontStyle="Bold"
+                 enabled="0" textColour="2734686207"/>
+    </Component>
+    <Component type="ScriptSlider" id="L1_TRANSPOSE" x="11" y="105" processorId="Transposer1"
+               style="Horizontal" max="24" parameterId="TransposeAmount" width="118"
+               height="10" min="-24" bgColour="1531858510" itemColour="3747432306"
+               itemColour2="710844621" textColour="3863212" middlePosition="0"
+               stepSize="1" text="*" showValuePopup="Below" parentComponent="SAMPLEPANEL"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="L1 TRANS" x="0" y="0" text="TRANSPOSE"
+                 width="58" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 editable="0" macroControl="No MacroControl" parentComponent="L1_TRANSPOSE"
+                 alignment="left" fontStyle="Bold" textColour="2734686207" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="L1_PITCH" x="11" y="119" middlePosition="0"
+               min="-1" width="118" height="10" processorId="SAMPLE1PITCH" parameterId="Intensity"
+               isMetaParameter="1" isVertical="0" style="Horizontal" bgColour="1531858510"
+               itemColour="3747432306" itemColour2="710844621" textColour="3863212"
+               text="*" showValuePopup="Below" parentComponent="SAMPLEPANEL"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="L1 PITCH" x="0" y="0" text="PITCH" width="39"
+                 height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 editable="0" macroControl="No MacroControl" parentComponent="L1_PITCH"
+                 alignment="left" fontStyle="Bold" textColour="2734686207" enabled="0"/>
+    </Component>
+    <Component type="ScriptButton" id="L1_PITCHWHEEL ENABLE" x="115" y="144"
+               processorId="PWHEEL1MOD" parameterId="Enabled" width="15" height="10"
+               bgColour="5789784" itemColour="1513239" itemColour2="5577499"
+               defaultValue="1" scaleFactor="0.025" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               parentComponent="SAMPLEPANEL"/>
+    <Component type="ScriptSlider" id="PITCHWHEEL1" x="11" y="142" style="Horizontal"
+               width="101" height="10" processorId="PW Global" parameterId="Intensity"
+               bgColour="1531858510" itemColour="1715833489" itemColour2="710844621"
+               textColour="3863212" max="12" middlePosition="0" min="-12" stepSize="1"
+               defaultValue="2" text="PWHEEL1" showValuePopup="Below" parentComponent="SAMPLEPANEL"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="L1 PWheel" x="0" y="0" text="PITCHWHEEL"
+                 width="70" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 alignment="left" editable="0" processorId="PW Global" macroControl="No MacroControl"
+                 parentComponent="PITCHWHEEL1" fontStyle="Bold" textColour="2734686207"
+                 enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="L1_VELOCITY AMOUNT" x="140" y="22" width="100"
+               height="10" processorId="VEL1 (gain)" parameterId="Intensity"
+               itemColour2="266326437" itemColour="2442028332" bgColour="1531858510"
+               middlePosition="0.5" style="Horizontal" textColour="3876352"
+               defaultValue="1" showValuePopup="Below" parentComponent="SAMPLEPANEL"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="L1 VELOCITY" x="0" y="0" text="VELOCITY"
+                 width="60" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 editable="0" alignment="left" macroControl="No MacroControl"
+                 parentComponent="L1_VELOCITY AMOUNT" fontStyle="Bold" textColour="2734686207"
+                 enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="L1_ATTACK CURVE" x="140" y="178" width="116"
+               height="10" processorId="L1 ENV (gain)" parameterId="AttackCurve"
+               itemColour2="266326437" itemColour="2442028332" bgColour="1531858510"
+               middlePosition="0.5" style="Horizontal" textColour="3876352"
+               showValuePopup="Below" parentComponent="SAMPLEPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="L1 GENV ATTACKCURVE" x="-2" y="0" text="ATTACK CURVE"
+                 width="60" height="10" fontName="Calibri" fontSize="10" itemColour2="14668197"
+                 editable="0" macroControl="No MacroControl" parentComponent="L1_ATTACK CURVE"
+                 bgColour="5131854" itemColour="9789720" fontStyle="Bold" enabled="0"
+                 alignment="left" textColour="2734686207"/>
+    </Component>
+    <Component type="ScriptButton" id="L1_VELOCITY ATTACK ENABLE" x="140" y="38"
+               processorId="ENV1 VEL ATT.LEVEL" parameterId="Enabled" width="15"
+               height="10" bgColour="5789784" itemColour="1513239" itemColour2="5577499"
+               filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="SAMPLEPANEL"/>
+    <Component type="ScriptSlider" id="L1_VELOCITY ATTACK LEVEL" x="157" y="36"
+               width="83" height="10" processorId="ENV1 VEL ATT.LEVEL" parameterId="Intensity"
+               itemColour2="266326437" itemColour="2442028332" bgColour="1531858510"
+               middlePosition="0.5" style="Horizontal" textColour="3876352"
+               showValuePopup="Below" parentComponent="SAMPLEPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="L1 VELATT LEVEL" x="0" y="0" text="VELOCITY ATTACK"
+                 width="75" height="10" fontName="Calibri" fontSize="10" itemColour2="14668197"
+                 editable="0" macroControl="No MacroControl" parentComponent="L1_VELOCITY ATTACK LEVEL"
+                 bgColour="5131854" itemColour="9789720" fontStyle="Bold" alignment="left"
+                 enabled="0" textColour="2734686207"/>
+    </Component>
+    <Component type="ScriptButton" id="L1_VELOCITY ATTACK INVERT" x="243" y="38"
+               processorId="ENV1 VEL ATT.LEVEL" parameterId="Inverted" width="20"
+               height="10" bgColour="5789784" itemColour="1513239" itemColour2="5577499"
+               filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="SAMPLEPANEL"/>
+    <Component type="ScriptSlider" id="L1_ENVELOPE Attack" x="140" y="53" width="20"
+               height="120" processorId="L1 ENV (gain)" parameterId="Attack"
+               max="10000" stepSize="1" middlePosition="2500" isVertical="0"
+               style="Vertical" min="5" itemColour="2442028332" itemColour2="266326437"
+               bgColour="1531858510" defaultValue="5" textColour="3876352" showValuePopup="Right"
+               parentComponent="SAMPLEPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="L1 ENV Attack" x="0" y="108" text="A"
+                 width="20" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 editable="0" macroControl="No MacroControl" parentComponent="L1_ENVELOPE Attack"
+                 fontStyle="Bold" textColour="2734686207" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="L1_ENVELOPE Hold" x="164" y="53" width="20"
+               height="120" processorId="L1 ENV (gain)" parameterId="Hold" max="20000"
+               style="Vertical" middlePosition="2500" bgColour="1531858510"
+               itemColour="2442028332" itemColour2="266326437" textColour="3876352"
+               showValuePopup="Right" parentComponent="SAMPLEPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="L1_ENV Hold" x="0" y="108" text="H" width="20"
+                 height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 editable="0" macroControl="No MacroControl" parentComponent="L1_ENVELOPE Hold"
+                 fontStyle="Bold" textColour="2734686207" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="L1_ENVELOPE Decay" x="188" y="53" width="20"
+               height="120" processorId="L1 ENV (gain)" parameterId="Decay"
+               max="20000" stepSize="1" style="Vertical" middlePosition="2500"
+               min="1" bgColour="1531858510" itemColour="2442028332" itemColour2="266326437"
+               textColour="3876352" showValuePopup="Right" parentComponent="SAMPLEPANEL"
+               text="L1_ENV Decay" showTextBox="0">
+      <Component type="ScriptLabel" id="L1 GENV Decay" x="0" y="108" text="D"
+                 width="20" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 editable="0" macroControl="No MacroControl" parentComponent="L1_ENVELOPE Decay"
+                 fontStyle="Bold" textColour="2734686207" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="L1_ENVELOPE Sustain" x="212" y="53" width="20"
+               height="120" processorId="L1 ENV (gain)" parameterId="Sustain"
+               max="0" min="-100" stepSize="1" style="Vertical" middlePosition="-50"
+               mode="Decibel" textColour="3876352" itemColour2="266326437" itemColour="2442028332"
+               bgColour="1531858510" showValuePopup="Right" parentComponent="SAMPLEPANEL"
+               text="L1_ENV Sustain" showTextBox="0">
+      <Component type="ScriptLabel" id="L1 GENV Sustain" x="0" y="108" text="S"
+                 width="20" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 editable="0" macroControl="No MacroControl" parentComponent="L1_ENVELOPE Sustain"
+                 fontStyle="Bold" textColour="2734686207" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="L1_ENVELOPE Release" x="236" y="53" width="20"
+               height="120" processorId="L1 ENV (gain)" parameterId="Release"
+               max="20000" stepSize="1" mode="Time" middlePosition="2500" defaultValue="20"
+               style="Vertical" min="5" bgColour="1531858510" itemColour="2442028332"
+               itemColour2="266326437" textColour="3876352" showValuePopup="Right"
+               parentComponent="SAMPLEPANEL" text="L1_ENV Release" showTextBox="0">
+      <Component type="ScriptLabel" id="L1 ENV RELEASE" x="0" y="108" text="R"
+                 width="20" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 editable="0" macroControl="No MacroControl" parentComponent="L1_ENVELOPE Release"
+                 fontStyle="Bold" textColour="2734686207" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="GAIN ENVELOPE DECAY CURVE" x="140" y="192"
+               width="116" height="10" processorId="L1 ENV (gain)" parameterId="AttackCurve"
+               itemColour2="266326437" itemColour="2442028332" bgColour="1531858510"
+               middlePosition="0.5" style="Horizontal" textColour="3876352"
+               showValuePopup="Below" parentComponent="SAMPLEPANEL" showTextBox="0"
+               text="GAIN ENVELOPE ATTACK CURVE">
+      <Component type="ScriptLabel" id="GENV DECAYCURVE" x="-2" y="0" text="DECAY CURVE"
+                 width="60" height="10" fontName="Calibri" fontSize="10" itemColour2="14668197"
+                 editable="0" macroControl="No MacroControl" parentComponent="GAIN ENVELOPE DECAY CURVE"
+                 bgColour="5131854" itemColour="9789720" fontStyle="Bold" enabled="0"
+                 alignment="left" textColour="2734686207"/>
+    </Component>
+    <Component type="ScriptLabel" id="L1 VSS INVERT1" x="238" y="8" text="INV"
+               width="25" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+               editable="0" macroControl="No MacroControl" parentComponent="SAMPLEPANEL"
+               alignment="left" enabled="0" fontStyle="Bold" textColour="2734686207"/>
+  </Component>
+  <Component type="ScriptPanel" id="LAYER1FILTERPANEL" x="272" y="1" width="412"
+             height="211" textColour="1849510211" borderRadius="1" itemColour2="1161456779"
+             itemColour="1159537199" borderSize="1.4" bgColour="1159537199">
+    <Component type="ScriptLabel" id="L1 VSS INVERT2" x="384" y="9" text="INV"
+               width="25" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+               editable="0" macroControl="No MacroControl" parentComponent="LAYER1FILTERPANEL"
+               alignment="left" enabled="0" fontStyle="Bold" textColour="2734686207"/>
+    <Component type="ScriptLabel" id="ScriptLabel1" x="151" y="55" width="102"
+               height="148" parentComponent="LAYER1FILTERPANEL" text="" bgColour="425033867"
+               itemColour="1847606082" textColour="16777215"/>
+    <Component type="ScriptLabel" id="FilterDisplay bck1" x="150" y="53" width="104"
+               height="152" parentComponent="LAYER1FILTERPANEL" text="" bgColour="337934575"
+               itemColour="2268876391" itemColour2="4279308561" textColour="16777215"/>
+    <Component type="ScriptFloatingTile" id="FILTER DISPLAY" x="152" y="55"
+               width="100" height="148" parentComponent="LAYER1FILTERPANEL"
+               ContentType="FilterDisplay" bgColour="256729014" itemColour="1122893568"
+               itemColour2="1202040405" Data="{&#13;&#10;  &quot;ProcessorId&quot;: &quot;FILTER&quot;,&#13;&#10;  &quot;Index&quot;: -1&#13;&#10;}"
+               textColour="2137062" Font="Calibri"/>
+    <Component type="ScriptLabel" id="bttnbckg inv 20" x="390" y="23" width="13"
+               height="38" parentComponent="LAYER1FILTERPANEL" text="" bgColour="2521585855"
+               editable="0" alignment="bottom" itemColour2="4279308561" itemColour="4282604143"/>
+    <Component type="ScriptLabel" id="bttnbckg inv 22" x="277" y="23" width="13"
+               height="10" parentComponent="LAYER1FILTERPANEL" text="" bgColour="2521585855"
+               editable="0"/>
+    <Component type="ScriptLabel" id="bttnbckg inv 19" x="232" y="324" width="17"
+               height="10" parentComponent="LAYER1FILTERPANEL" text="" bgColour="1713342612"
+               itemColour2="16711680" textColour="0" editable="0"/>
+    <Component type="ScriptLabel" id="bttnbckg inv 23" x="277" y="51" width="13"
+               height="10" parentComponent="LAYER1FILTERPANEL" text="" bgColour="2521585855"
+               editable="0"/>
+    <Component type="ScriptLabel" id="bttnbckg inv 24" x="277" y="37" width="13"
+               height="10" parentComponent="LAYER1FILTERPANEL" text="" bgColour="2521585855"
+               editable="0"/>
+    <Component type="ScriptLabel" id="bttnbckg inv 25" x="13" y="6" width="13"
+               height="11" parentComponent="LAYER1FILTERPANEL" text="" bgColour="2521585855"
+               editable="0"/>
+    <Component type="ScriptButton" id="L1_FILTER ENABLE" x="13" y="9" processorId="FILTER"
+               parameterId="Enabled" width="60" height="10" bgColour="5789784"
+               itemColour="1513239" itemColour2="5577499" text="" defaultValue="1"
+               filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="LAYER1FILTERPANEL"/>
+    <Component type="ScriptButton" id="L1_FILTER ENVELOPE ENABLE" x="277" y="39"
+               processorId="ENV FILTER 1" parameterId="Enabled" width="15" height="10"
+               bgColour="5789784" itemColour="1513239" itemColour2="5577499"
+               filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="LAYER1FILTERPANEL"/>
+    <Component type="ScriptSlider" id="L1_FILTER ENVELOPE INTENSITY" x="293"
+               y="37" width="93" height="10" processorId="ENV FILTER 1" parameterId="Intensity"
+               itemColour2="343968224" itemColour="2521585855" bgColour="496737179"
+               middlePosition="1" style="Horizontal" textColour="2019467469"
+               defaultValue="1" showValuePopup="Below" parentComponent="LAYER1FILTERPANEL"
+               showTextBox="0" max="2">
+      <Component type="ScriptLabel" id="L1 FENV AMOUNT" x="1" y="0" text="FILTER ENVELOPE"
+                 width="75" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" alignment="left" macroControl="No MacroControl"
+                 parentComponent="L1_FILTER ENVELOPE INTENSITY" fontStyle="Bold"
+                 enabled="0"/>
+    </Component>
+    <Component type="ScriptButton" id="L1_VELOCITY FILTER ENABLE" x="277" y="25"
+               processorId="VEL FILTER 1" parameterId="Enabled" width="15" height="10"
+               bgColour="5789784" itemColour="1513239" itemColour2="5577499"
+               filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="LAYER1FILTERPANEL"/>
+    <Component type="ScriptSlider" id="L1_VELOCITY FILTER INTENSITY" x="293"
+               y="23" width="93" height="10" processorId="VEL FILTER 1" parameterId="Intensity"
+               itemColour2="343968224" itemColour="2521585855" bgColour="496737179"
+               middlePosition="0.5" style="Horizontal" textColour="2019467469"
+               defaultValue="1" showValuePopup="Below" parentComponent="LAYER1FILTERPANEL"
+               showTextBox="0" max="2">
+      <Component type="ScriptLabel" id="L1 VELOCITY FILTER " x="1" y="0" text="VELOCITY FILTER"
+                 width="75" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 editable="0" alignment="left" macroControl="No MacroControl"
+                 processorId="VEL FILTER 1" parentComponent="L1_VELOCITY FILTER INTENSITY"
+                 fontStyle="Bold" enabled="0" textColour="2734686207"/>
+    </Component>
+    <Component type="ScriptButton" id="L1_VELOCITY FILTER INVERT" x="390" y="25"
+               processorId="VEL FILTER 1" parameterId="Inverted" width="15"
+               height="8" bgColour="5789784" itemColour="1513239" itemColour2="5577499"
+               filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="LAYER1FILTERPANEL"/>
+    <Component type="ScriptSlider" id="L1_FILTER ENVELOPE ATTACK CURVE" x="277"
+               y="181" width="126" height="10" processorId="ENV FILTER 1" parameterId="AttackCurve"
+               itemColour2="343968224" itemColour="2521585855" bgColour="496737179"
+               middlePosition="0.5" style="Horizontal" textColour="2019467469"
+               showValuePopup="Below" parentComponent="LAYER1FILTERPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="L1 ATTACK CURVE" x="0" y="0" text="ATTACK CURVE"
+                 width="65" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="L1_FILTER ENVELOPE ATTACK CURVE" fontStyle="Bold"
+                 enabled="0"/>
+    </Component>
+    <Component type="ScriptButton" id="L1_FILTER VELOCITY ATTACK ENABLE" x="277"
+               y="53" processorId="ENV2 Filter VEL ATT. LEVEL" parameterId="Enabled"
+               width="15" height="10" bgColour="5789784" itemColour="1513239"
+               itemColour2="5577499" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" parentComponent="LAYER1FILTERPANEL"/>
+    <Component type="ScriptSlider" id="L1_FILTER VELOCITY ATTACK INTENSITY"
+               x="293" y="51" width="93" height="10" processorId="ENV2 Filter VEL ATT. LEVEL"
+               parameterId="Intensity" itemColour2="343968224" itemColour="2521585855"
+               bgColour="496737179" middlePosition="0.5" style="Horizontal"
+               textColour="2019467469" showValuePopup="Below" parentComponent="LAYER1FILTERPANEL"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="L1 VEL ATTACK LEVEL" x="1" y="0" text="VELOCITY ATTACK"
+                 width="75" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="L1_FILTER VELOCITY ATTACK INTENSITY" alignment="left"
+                 fontStyle="Bold" enabled="0"/>
+    </Component>
+    <Component type="ScriptButton" id="L1_VELOCITY FILTER ATTACK INVERT" x="390"
+               y="53" processorId="ENV2 Filter1 VEL ATT. LEVEL" parameterId="Inverted"
+               width="15" height="8" bgColour="5789784" itemColour="1513239"
+               itemColour2="5577499" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" parentComponent="LAYER1FILTERPANEL"/>
+    <Component type="ScriptSlider" id="L1_FILTER FREQUENCY" x="10" y="23" style="Vertical"
+               width="42" height="182" processorId="FILTER" parameterId="Frequency"
+               max="20000" mode="Frequency" bgColour="496737179" itemColour="2521585855"
+               itemColour2="343968224" textColour="2019467469" middlePosition="1500"
+               showValuePopup="Right" parentComponent="LAYER1FILTERPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="L1 FENV FILTER Freq" x="-3" y="169" text="FREQUENCY"
+                 width="48" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" fontStyle="Bold" macroControl="No MacroControl"
+                 parentComponent="L1_FILTER FREQUENCY" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="L1_FILTER RESONANCE" x="57" y="23" style="Vertical"
+               width="20" height="182" processorId="FILTER" parameterId="Q"
+               bgColour="496737179" itemColour="2521585855" itemColour2="343968224"
+               textColour="2019467469" max="8" showValuePopup="Right" parentComponent="LAYER1FILTERPANEL"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="L1 FENV FILTER Q" x="-3" y="169" text="Q"
+                 width="25" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" fontStyle="Bold" macroControl="No MacroControl"
+                 parentComponent="L1_FILTER RESONANCE" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="L1_FILTER BIPOLAR" x="82" y="23" style="Vertical"
+               width="31" height="182" processorId="FILTER" parameterId="BipolarIntensity"
+               bgColour="496737179" itemColour="2521585855" itemColour2="343968224"
+               textColour="2019467469" showValuePopup="Right" parentComponent="LAYER1FILTERPANEL"
+               showTextBox="0" min="-0.3">
+      <Component type="ScriptLabel" id="L1 FENV BIPOLAR" x="-2" y="169" text="BIPOLAR"
+                 width="36" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" fontStyle="Bold" macroControl="No MacroControl"
+                 parentComponent="L1_FILTER BIPOLAR" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="L1_FILTER GAIN" x="118" y="23" style="Vertical"
+               width="20" height="182" processorId="FILTER" parameterId="Gain"
+               bgColour="496737179" itemColour="2521585855" itemColour2="343968224"
+               textColour="2019467469" max="18" mode="Decibel" middlePosition="0"
+               showValuePopup="Right" parentComponent="LAYER1FILTERPANEL" showTextBox="0"
+               min="-18">
+      <Component type="ScriptLabel" id="L1 FENV GAIN" x="-3" y="169" text="GAIN"
+                 width="25" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" fontStyle="Bold" macroControl="No MacroControl"
+                 parentComponent="L1_FILTER GAIN" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="L1_FILTER ENVELOPE ATTACK" x="277" y="67"
+               width="22" height="109" processorId="ENV FILTER 1" parameterId="Attack"
+               max="10000" stepSize="1" middlePosition="2500" isVertical="0"
+               style="Vertical" itemColour="2521585855" itemColour2="343968224"
+               bgColour="496737179" textColour="2019467469" showValuePopup="Right"
+               parentComponent="LAYER1FILTERPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="L1 FENV Attack1" x="0" y="96" text="A"
+                 width="20" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="L1_FILTER ENVELOPE ATTACK" fontStyle="Bold"
+                 enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="L1_FILTER ENVELOPE HOLD" x="303" y="67"
+               width="22" height="109" processorId="ENV FILTER 1" parameterId="Hold"
+               max="20000" style="Vertical" middlePosition="2500" bgColour="496737179"
+               itemColour="2521585855" itemColour2="343968224" textColour="2019467469"
+               showValuePopup="Right" parentComponent="LAYER1FILTERPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="L1 FENV Hold1" x="0" y="96" text="H" width="20"
+                 height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="L1_FILTER ENVELOPE HOLD" fontStyle="Bold" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="L1_FILTER ENVELOPE DECAY" x="329" y="67"
+               width="22" height="109" processorId="ENV FILTER 1" parameterId="Decay"
+               max="20000" stepSize="1" style="Vertical" middlePosition="2500"
+               bgColour="496737179" itemColour="2521585855" itemColour2="343968224"
+               textColour="2019467469" showValuePopup="Right" parentComponent="LAYER1FILTERPANEL"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="L1 FENV Decay1" x="0" y="96" text="D"
+                 width="20" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="L1_FILTER ENVELOPE DECAY" fontStyle="Bold" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="L1_FILTER ENVELOPE SUSTAIN" x="355" y="67"
+               width="22" height="109" processorId="ENV FILTER 1" parameterId="Sustain"
+               max="0" stepSize="1" style="Vertical" middlePosition="-50" mode="Decibel"
+               textColour="2019467469" itemColour2="343968224" itemColour="2521585855"
+               bgColour="496737179" showValuePopup="Right" parentComponent="LAYER1FILTERPANEL"
+               showTextBox="0" min="-100">
+      <Component type="ScriptLabel" id="L1 FENV Sustain1" x="0" y="96" text="S"
+                 width="20" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="L1_FILTER ENVELOPE SUSTAIN" fontStyle="Bold"
+                 enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="L1_FILTER ENVELOPE RELEASE" x="381" y="67"
+               width="22" height="109" processorId="ENV FILTER 1" parameterId="Release"
+               max="20000" stepSize="1" mode="Time" middlePosition="2500" style="Vertical"
+               bgColour="496737179" itemColour="2521585855" itemColour2="343968224"
+               textColour="2019467469" showValuePopup="Right" parentComponent="LAYER1FILTERPANEL"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="L1 FENV Release" x="0" y="96" text="R"
+                 width="20" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="L1_FILTER ENVELOPE RELEASE" fontStyle="Bold"
+                 enabled="0"/>
+    </Component>
+    <Component type="ScriptPanel" id="FILTER MODULATORS" x="93" y="85" width="208"
+               height="117" parentComponent="LAYER1FILTERPANEL" enabled="0"
+               visible="0">
+      <Component type="ScriptLabel" id="bttnbckg inv 13" x="35" y="10" width="13"
+                 height="10" parentComponent="FILTER MODULATORS" text="" bgColour="1713342612"
+                 editable="0"/>
+      <Component type="ScriptLabel" id="bttnbckg inv 14" x="40" y="23" width="13"
+                 height="10" parentComponent="FILTER MODULATORS" text="" bgColour="1713342612"
+                 editable="0"/>
+      <Component type="ScriptLabel" id="bttnbckg inv 15" x="45" y="36" width="13"
+                 height="10" parentComponent="FILTER MODULATORS" text="" bgColour="1713342612"
+                 editable="0"/>
+      <Component type="ScriptLabel" id="bttnbckg inv 16" x="35" y="49" width="13"
+                 height="10" parentComponent="FILTER MODULATORS" text="" bgColour="1713342612"
+                 editable="0"/>
+      <Component type="ScriptLabel" id="bttnbckg inv 17" x="40" y="62" width="13"
+                 height="10" parentComponent="FILTER MODULATORS" text="" bgColour="1713342612"
+                 itemColour2="16711680" textColour="0" editable="0"/>
+      <Component type="ScriptLabel" id="bttnbckg inv 18" x="45" y="75" width="13"
+                 height="10" parentComponent="FILTER MODULATORS" text="" bgColour="1713342612"
+                 editable="0"/>
+      <Component type="ScriptButton" id="L1_LFO1toFREQ ENABLE" x="35" y="12" width="15"
+                 height="10" processorId="Fliter1 GLFO1" parameterId="Enabled"
+                 itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+                 filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+                 parentComponent="FILTER MODULATORS"/>
+      <Component type="ScriptSlider" id="L1_LFO1toFREQUENCY" x="52" y="10" style="Horizontal"
+                 width="134" height="10" processorId="Fliter1 GLFO1" parameterId="Intensity"
+                 bgColour="496737179" itemColour="1713342612" itemColour2="710844621"
+                 textColour="0" showValuePopup="Below" parentComponent="FILTER MODULATORS"
+                 showTextBox="0">
+        <Component type="ScriptLabel" id="FLFO1 button" x="0" y="0" text="LFO 1 to FREQUENCY"
+                   width="100" height="10" fontName="Arial Rounded MT" fontSize="8"
+                   itemColour2="1118481" textColour="3049767286" editable="0" macroControl="No MacroControl"
+                   alignment="left" parentComponent="L1_LFO1toFREQUENCY"/>
+      </Component>
+      <Component type="ScriptButton" id="L1_LFO2toFREQ ENABLE" x="40" y="25" width="15"
+                 height="10" processorId="Fliter1 GLFO2" parameterId="Enabled"
+                 itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+                 filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+                 parentComponent="FILTER MODULATORS"/>
+      <Component type="ScriptSlider" id="L1_LFO2toFREQUENCY" x="57" y="23" style="Horizontal"
+                 width="129" height="10" bgColour="496737179" itemColour="1713342612"
+                 itemColour2="710844621" textColour="0" processorId="Fliter1 GLFO2"
+                 parameterId="Intensity" showValuePopup="Below" parentComponent="FILTER MODULATORS"
+                 showTextBox="0">
+        <Component type="ScriptLabel" id="L1 LFO2 to FREQ" x="0" y="0" text="LFO 2 to FREQUENCY"
+                   width="100" height="10" fontName="Arial Rounded MT" fontSize="8"
+                   itemColour2="1118481" textColour="3049767286" editable="0" macroControl="No MacroControl"
+                   alignment="left" parentComponent="L1_LFO2toFREQUENCY"/>
+      </Component>
+      <Component type="ScriptButton" id="L1_LFO3toFREQ ENABLE" x="45" y="38" width="15"
+                 height="10" processorId="Fliter1 GLFO3" parameterId="Enabled"
+                 itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+                 filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+                 parentComponent="FILTER MODULATORS"/>
+      <Component type="ScriptSlider" id="L1_LFO3toFREQUENCY" x="62" y="36" style="Horizontal"
+                 width="124" height="10" bgColour="496737179" itemColour="1713342612"
+                 itemColour2="710844621" textColour="0" processorId="Fliter1 GLFO3"
+                 parameterId="Intensity" showValuePopup="Below" parentComponent="FILTER MODULATORS"
+                 showTextBox="0">
+        <Component type="ScriptLabel" id="L1 LFO3 to FREQ" x="0" y="0" text="LFO 3 to FREQUENCY"
+                   width="100" height="10" fontName="Arial Rounded MT" fontSize="8"
+                   itemColour2="1118481" textColour="3049767286" editable="0" macroControl="No MacroControl"
+                   alignment="left" parentComponent="L1_LFO3toFREQUENCY"/>
+      </Component>
+      <Component type="ScriptButton" id="L1_LFO2toQ ENABLE" x="35" y="51" width="15"
+                 height="10" processorId="FILTER1 LFO2 to Q" parameterId="Enabled"
+                 itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+                 filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+                 parentComponent="FILTER MODULATORS"/>
+      <Component type="ScriptSlider" id="L1_LFO2toQ" x="52" y="49" style="Horizontal"
+                 width="134" height="10" processorId="FILTER1 LFO2 to Q" parameterId="Intensity"
+                 bgColour="496737179" itemColour="1713342612" itemColour2="710844621"
+                 textColour="0" showValuePopup="Below" parentComponent="FILTER MODULATORS"
+                 showTextBox="0" suffix=" dB">
+        <Component type="ScriptLabel" id="L1 LFO 1 to Q" x="0" y="0" text="LFO 2 to Q"
+                   width="100" height="10" fontName="Arial Rounded MT" fontSize="8"
+                   itemColour2="1118481" textColour="3049767286" editable="0" macroControl="No MacroControl"
+                   alignment="left" parentComponent="L1_LFO2toQ"/>
+      </Component>
+      <Component type="ScriptButton" id="L1_LFO3toQ ENABLE" x="40" y="64" width="15"
+                 height="10" processorId="FILTER1 LFO23to Q" parameterId="Enabled"
+                 itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+                 filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+                 parentComponent="FILTER MODULATORS"/>
+      <Component type="ScriptSlider" id="L1_LFO3toQ" x="57" y="62" style="Horizontal"
+                 width="129" height="10" bgColour="496737179" itemColour="1713342612"
+                 itemColour2="710844621" textColour="0" processorId="FILTER1 LFO23to Q"
+                 parameterId="Intensity" showValuePopup="Below" parentComponent="FILTER MODULATORS"
+                 showTextBox="0" suffix=" dB">
+        <Component type="ScriptLabel" id="L1_LFO3toQ label" x="0" y="0" width="100"
+                   height="10" fontName="Arial Rounded MT" fontSize="8" itemColour2="1118481"
+                   textColour="3049767286" editable="0" macroControl="No MacroControl"
+                   alignment="left" parentComponent="L1_LFO3toQ" text="LFO 3 to Q"/>
+      </Component>
+      <Component type="ScriptButton" id="L1_LFO3toGAIN ENABLE" x="45" y="77" width="15"
+                 height="10" processorId="FILTER1 LFO2 to GAIN" parameterId="Enabled"
+                 itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+                 filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+                 parentComponent="FILTER MODULATORS"/>
+      <Component type="ScriptSlider" id="L1_LFO3toGAIN" x="62" y="75" style="Horizontal"
+                 width="124" height="10" bgColour="496737179" itemColour="1713342612"
+                 itemColour2="710844621" textColour="0" processorId="FILTER1 LFO2 to GAIN"
+                 parameterId="Intensity" showValuePopup="Below" parentComponent="FILTER MODULATORS"
+                 showTextBox="0" suffix=" dB">
+        <Component type="ScriptLabel" id="L1_LFO 3 to GAIN label" x="0" y="0" text="LFO 3 to GAIN"
+                   width="100" height="10" fontName="Arial Rounded MT" fontSize="8"
+                   itemColour2="1118481" textColour="3049767286" editable="0" macroControl="No MacroControl"
+                   alignment="left" parentComponent="L1_LFO3toGAIN"/>
+      </Component>
+    </Component>
+    <Component type="ScriptSlider" id="L1_FILTER ENVELOPE ATTACK CURVE label"
+               x="277" y="195" width="126" height="10" processorId="ENV FILTER 1"
+               parameterId="AttackCurve" itemColour2="343968224" itemColour="2521585855"
+               bgColour="496737179" middlePosition="0.5" style="Horizontal"
+               textColour="2019467469" showValuePopup="Below" parentComponent="LAYER1FILTERPANEL"
+               showTextBox="0" text="L1_FILTER ENVELOPE ATTACK CURVE">
+      <Component type="ScriptLabel" id="L1 FILTER ENVELOPE DECAY CURVE lab" x="0"
+                 y="-1" text="DECAY CURVE" width="65" height="10" fontName="Calibri"
+                 fontSize="10" itemColour2="1118481" textColour="2734686207" editable="0"
+                 macroControl="No MacroControl" parentComponent="L1_FILTER ENVELOPE ATTACK CURVE label"
+                 fontStyle="Bold" enabled="0"/>
+    </Component>
+    <Component type="ScriptComboBox" id="FILTER SELECT" x="150" y="23" parentComponent="LAYER1FILTERPANEL"
+               width="104" height="25" fontName="Calibri" bgColour="1363760762"
+               fontStyle="Bold" textColour="2734686207" fontSize="10" items="&#10;1 POLE LP&#10;1 POLE HP&#10;BIQUAD LP&#10;BIQUAD HP&#10;SVF LP&#10;SVF HP&#10;MOOG LP&#10;BIQUAD LP REZ&#10;LADDER 4 POLE&#10;LO SHELF EQ&#10;HI SHELF EQ&#10;PEAK EQ&#10;ALLPASS&#10;RINGMOD"
+               max="14"/>
+    <Component type="ScriptLabel" id="L1 VSS INVERT3" x="383" y="-169" text="INV"
+               width="25" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+               editable="0" macroControl="No MacroControl" parentComponent="LAYER1FILTERPANEL"
+               alignment="left" enabled="0" fontStyle="Bold" textColour="2734686207"/>
+  </Component>
+  <Component type="ScriptPanel" id="PREFERENCES_PANEL" x="1" y="507" text="PREFERENCESPANEL"
+             width="240" height="43" textColour="1849510211" borderRadius="1"
+             itemColour2="1159537199" itemColour="1161456779" borderSize="1.4">
+    <Component type="ScriptLabel" id="LFO I17" x="98" y="4" width="13" height="34"
+               fontName="Calibri" fontStyle="Regular" alignment="left" bgColour="2589678427"
+               textColour="3297692367" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="859955449" parentComponent="PREFERENCES_PANEL" fontSize="11"
+               editable="0" text=""/>
+    <Component type="ScriptLabel" id="LFO I25" x="172" y="4" width="13" height="34"
+               fontName="Calibri" fontStyle="Regular" alignment="left" bgColour="2589678427"
+               textColour="3297692367" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="859955449" parentComponent="PREFERENCES_PANEL" fontSize="11"
+               editable="0" text=""/>
+    <Component type="ScriptLabel" id="MONO lab2" x="185" y="4" width="30" height="10"
+               text="EDIT" fontName="Calibri" editable="0" enabled="0" fontSize="12"
+               fontStyle="Bold" parentComponent="PREFERENCES_PANEL" alignment="left"
+               textColour="4294950756"/>
+    <Component type="ScriptLabel" id="MONO lab3" x="185" y="16" width="30" height="10"
+               text="ON" fontName="Calibri" editable="0" enabled="0" fontSize="12"
+               fontStyle="Bold" parentComponent="PREFERENCES_PANEL" alignment="left"
+               textColour="4294950756"/>
+    <Component type="ScriptButton" id="SettingsButton" x="98" y="30" width="16"
+               height="10" textColour="16777215" itemColour2="1118481" itemColour="3355443"
+               bgColour="16777215" parentComponent="PREFERENCES_PANEL" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" saveInPreset="0"/>
+    <Component type="ScriptLabel" id="SETTINGS LABEL" x="46" y="28" width="52"
+               height="10" text="SETTINGS" fontName="Calibri" editable="0" enabled="0"
+               fontSize="12" fontStyle="Bold" parentComponent="PREFERENCES_PANEL"
+               alignment="right"/>
+    <Component type="ScriptButton" id="MIDILPButton" x="98" y="18" width="15"
+               height="10" bgColour="16777215" itemColour="3355443" itemColour2="1118481"
+               textColour="16777215" parentComponent="PREFERENCES_PANEL" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" saveInPreset="0"/>
+    <Component type="ScriptLabel" id="MIDI_LEARN_PANEL label" x="5" y="16" width="93"
+               height="10" text="MIDI AUTOMATION" fontName="Calibri" multiline="1"
+               fontSize="12" textColour="4289177511" parentComponent="PREFERENCES_PANEL"
+               fontStyle="Bold" alignment="right" editable="0"/>
+    <Component type="ScriptSlider" id="MIDIchnl" x="118" y="14" processorId="MIDI CHN SETTER"
+               style="Horizontal" max="16" middlePosition="8" parameterId="channelNumber"
+               defaultValue="1" stepSize="1" width="45" height="10" min="1"
+               itemColour2="799225398" bgColour="1437995024" itemColour="1118508823"
+               textColour="4289939271" parentComponent="PREFERENCES_PANEL"/>
+    <Component type="ScriptLabel" id="MIDI CH" x="117" y="20" width="46" height="20"
+               fontName="Arial Rounded MT" fontSize="8" itemColour2="1118481"
+               textColour="4292499287" editable="0" macroControl="No MacroControl"
+               parentComponent="PREFERENCES_PANEL"/>
+    <Component type="ScriptButton" id="LibButton" x="98" y="6" width="15" height="10"
+               itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+               parentComponent="PREFERENCES_PANEL" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" saveInPreset="0"/>
+    <Component type="ScriptLabel" id="LIBRARY LABEL1" x="46" y="4" width="52"
+               height="10" text="LIBRARY" fontName="Calibri" editable="0" enabled="0"
+               fontSize="12" fontStyle="Bold" parentComponent="PREFERENCES_PANEL"
+               alignment="right"/>
+    <Component type="ScriptButton" id="ARPButton" x="172" y="6" width="15" height="10"
+               parentComponent="PREFERENCES_PANEL" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" saveInPreset="0"/>
+    <Component type="ScriptButton" id="MONOPHONIC" x="172" y="30" width="15"
+               height="10" parentComponent="PREFERENCES_PANEL" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" processorId="MONO" parameterId="Enabled"/>
+    <Component type="ScriptLabel" id="MONO lab" x="185" y="28" width="52" height="10"
+               text="MONO" fontName="Calibri" editable="0" enabled="0" fontSize="12"
+               fontStyle="Bold" parentComponent="PREFERENCES_PANEL" alignment="left"/>
+    <Component type="ScriptLabel" id="MONO lab1" x="206" y="10" width="40" height="10"
+               text="] ARP" fontName="Calibri" editable="0" enabled="0" fontSize="12"
+               fontStyle="Bold" parentComponent="PREFERENCES_PANEL" alignment="left"
+               textColour="4294950756"/>
+    <Component type="ScriptButton" id="ARPButton1" x="172" y="18" width="15"
+               height="10" parentComponent="PREFERENCES_PANEL" scaleFactor="0.025"
+               text="ARP ON" processorId="ARP" parameterId="BypassButton" filmstripImage="{PROJECT_FOLDER}rect_button3inv.png"/>
+  </Component>
+  <Component type="ScriptPanel" id="LFOPANEL" x="1" y="213" width="683" height="130"
+             textColour="1849510211" borderRadius="1" itemColour2="1159537199"
+             itemColour="1161456779" borderSize="1.4">
+    <Component type="ScriptLabel" id="darkbckg22" x="7" y="3" parentComponent="LFOPANEL"
+               width="182" height="124" bgColour="4278197270" itemColour="4280038192"
+               enabled="0" text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="darkbckg23" x="191" y="3" parentComponent="LFOPANEL"
+               width="242" height="124" bgColour="4278197270" itemColour="4280038192"
+               enabled="0" text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="darkbckg24" x="435" y="3" parentComponent="LFOPANEL"
+               width="242" height="124" bgColour="4278197270" itemColour="4280038192"
+               enabled="0" text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="lfodisplaybckg_1" x="14" y="52" parentComponent="LFOPANEL"
+               width="52" height="52" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="borders" x="10" y="48" width="60" height="60"
+               parentComponent="LFOPANEL" text="" itemColour2="0" itemColour="858555277"
+               textColour="0"/>
+    <Component type="ScriptLabel" id="lfodisplaybckg_2" x="198" y="52" parentComponent="LFOPANEL"
+               width="52" height="52" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="borders1" x="194" y="48" width="60" height="60"
+               parentComponent="LFOPANEL" text="" itemColour2="0" itemColour="858555277"
+               textColour="0"/>
+    <Component type="ScriptLabel" id="lfodisplaybckg_3" x="442" y="52" parentComponent="LFOPANEL"
+               width="52" height="52" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="borders2" x="439" y="48" width="60" height="60"
+               parentComponent="LFOPANEL" text="" itemColour2="0" itemColour="858555277"
+               textColour="0"/>
+    <Component type="ScriptLabel" id="sliderbckg_f1" x="58" y="9" parentComponent="LFOPANEL"
+               width="127" height="6" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="sliderbckg_f2" x="13" y="30" parentComponent="LFOPANEL"
+               width="56" height="11" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="sliderbckg_f3" x="77" y="30" parentComponent="LFOPANEL"
+               width="107" height="10" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="sliderbckg_f4" x="77" y="50" parentComponent="LFOPANEL"
+               width="107" height="10" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="sliderbckg_f5" x="77" y="70" parentComponent="LFOPANEL"
+               width="107" height="10" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="sliderbckg_f6" x="77" y="90" parentComponent="LFOPANEL"
+               width="107" height="10" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="sliderbckg_f7" x="241" y="9" parentComponent="LFOPANEL"
+               width="186" height="6" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="sliderbckg_f8" x="197" y="30" parentComponent="LFOPANEL"
+               width="56" height="11" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="sliderbckg_f9" x="261" y="30" parentComponent="LFOPANEL"
+               width="166" height="10" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="sliderbckg_f10" x="261" y="50" parentComponent="LFOPANEL"
+               width="166" height="10" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="sliderbckg_f11" x="261" y="70" parentComponent="LFOPANEL"
+               width="166" height="10" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="sliderbckg_f12" x="261" y="90" parentComponent="LFOPANEL"
+               width="166" height="10" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="sliderbckg_f13" x="504" y="91" parentComponent="LFOPANEL"
+               width="166" height="10" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="sliderbckg_f14" x="504" y="30" parentComponent="LFOPANEL"
+               width="166" height="10" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="sliderbckg_f15" x="504" y="50" parentComponent="LFOPANEL"
+               width="166" height="10" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="sliderbckg_f16" x="504" y="70" parentComponent="LFOPANEL"
+               width="166" height="10" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="sliderbckg_f17" x="440" y="30" parentComponent="LFOPANEL"
+               width="56" height="11" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="sliderbckg_f18" x="484" y="9" parentComponent="LFOPANEL"
+               width="186" height="6" bgColour="4280039730" itemColour="4279971628"
+               text="" itemColour2="4294967295" textColour="0"/>
+    <Component type="ScriptLabel" id="LFO I1" x="74" y="112" width="44" height="10"
+               fontName="Calibri" fontStyle="Bold" alignment="left" bgColour="570481884"
+               textColour="2734686207" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="859955449" parentComponent="LFOPANEL" fontSize="10"
+               editable="0" text="SYNC" enabled="0"/>
+    <Component type="ScriptLabel" id="LFO I2" x="125" y="112" width="50" height="10"
+               fontName="Calibri" fontStyle="Bold" alignment="left" bgColour="570481884"
+               textColour="2734686207" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="859955449" parentComponent="LFOPANEL" fontSize="10"
+               editable="0" text="LEGATO" enabled="0"/>
+    <Component type="ScriptLabel" id="LFO I3" x="259" y="112" width="44" height="10"
+               fontName="Calibri" fontStyle="Bold" alignment="left" bgColour="570481884"
+               textColour="2734686207" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="859955449" parentComponent="LFOPANEL" fontSize="10"
+               editable="0" text="SYNC" enabled="0"/>
+    <Component type="ScriptLabel" id="LFO I4" x="310" y="112" width="50" height="10"
+               fontName="Calibri" fontStyle="Bold" alignment="left" bgColour="570481884"
+               textColour="2734686207" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="859955449" parentComponent="LFOPANEL" fontSize="10"
+               editable="0" text="LEGATO" enabled="0"/>
+    <Component type="ScriptLabel" id="LFO I5" x="504" y="112" width="44" height="10"
+               fontName="Calibri" fontStyle="Bold" alignment="left" bgColour="570481884"
+               textColour="3297692367" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="859955449" parentComponent="LFOPANEL" fontSize="10"
+               editable="0" text="SYNC" enabled="0"/>
+    <Component type="ScriptLabel" id="LFO I6" x="555" y="112" width="50" height="10"
+               fontName="Calibri" fontStyle="Bold" alignment="left" bgColour="570481884"
+               textColour="3297692367" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="859955449" parentComponent="LFOPANEL" fontSize="10"
+               editable="0" text="LEGATO" enabled="0"/>
+    <Component type="ScriptLabel" id="LFO I7" x="612" y="112" width="44" height="10"
+               fontName="Calibri" fontStyle="Bold" alignment="left" bgColour="570481884"
+               textColour="3297692367" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="859955449" parentComponent="LFOPANEL" fontSize="10"
+               editable="0" text="LOOP" enabled="0"/>
+    <Component type="ScriptFloatingTile" id="LFO1DISPLAY" x="12" y="50" parentComponent="LFOPANEL"
+               ContentType="Waveform" bgColour="1531858510" itemColour="1713342612"
+               itemColour2="1445777120" textColour="4294951115" Data="{&#13;&#10;  &quot;ProcessorId&quot;: &quot;LFO1&quot;,&#13;&#10;  &quot;Index&quot;: -1&#13;&#10;}"
+               width="56" height="56"/>
+    <Component type="ScriptFloatingTile" id="LFO1DISPLAY1" x="196" y="50" parentComponent="LFOPANEL"
+               ContentType="Waveform" bgColour="1531858510" itemColour="1713342612"
+               itemColour2="1445777120" textColour="4294951115" Data="{&#13;&#10;  &quot;ProcessorId&quot;: &quot;LFO2&quot;,&#13;&#10;  &quot;Index&quot;: -1&#13;&#10;}"
+               width="56" height="56"/>
+    <Component type="ScriptFloatingTile" id="LFO1DISPLAY2" x="441" y="50" parentComponent="LFOPANEL"
+               ContentType="Waveform" bgColour="1531858510" itemColour="1713342612"
+               itemColour2="1445777120" textColour="4294951115" Data="{&#13;&#10;  &quot;ProcessorId&quot;: &quot;LFO3&quot;,&#13;&#10;  &quot;Index&quot;: -1&#13;&#10;}"
+               width="56" height="56"/>
+    <Component type="ScriptSlider" id="LFO1 INTENSITY" x="55" y="7" width="130"
+               height="10" style="Horizontal" processorId="LFO1" parameterId="Intensity"
+               bgColour="1531858510" itemColour="1713342612" itemColour2="1443319382"
+               textColour="4053406" showValuePopup="Below" parentComponent="LFOPANEL"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="LFO1 INTENSITY lab" x="0" y="0" text="INTENSITY"
+                 width="50" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="LFO1 INTENSITY" fontStyle="Bold" enabled="0"/>
+    </Component>
+    <Component type="ScriptLabel" id="LFO I" x="11" y="7" width="40" height="10"
+               fontName="Calibri" fontStyle="Bold" alignment="right" bgColour="939580636"
+               textColour="2734686207" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="859955449" parentComponent="LFOPANEL" fontSize="10"
+               editable="0" enabled="0"/>
+    <Component type="ScriptButton" id="LFO I ENABLE" x="11" y="9" width="15"
+               height="10" bgColour="16777215" itemColour="3355443" itemColour2="1118481"
+               textColour="16777215" scaleFactor="0.025" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               parentComponent="LFOPANEL" processorId="LFO1" parameterId="Enabled"/>
+    <Component type="ScriptComboBox" id="LFO1WaveForm" x="10" y="28" parentComponent="LFOPANEL"
+               width="60" height="17" text="LFO1 Wave" bgColour="1024082770"
+               itemColour="1531858510" itemColour2="4279975253" textColour="2726015169"
+               items="&#10;SIN&#10;TRI&#10;SAW&#10;SQR&#10;RND" max="5"/>
+    <Component type="ScriptSlider" id="LFO1Frequency" x="74" y="28" width="111"
+               height="14" style="Horizontal" bgColour="1531858510" itemColour="1713342612"
+               itemColour2="461673108" textColour="946902920" middlePosition="5"
+               max="20" mode="Frequency" parentComponent="LFOPANEL" showValuePopup="Below"
+               defaultValue="1" suffix=" Hz" processorId="LFO1" parameterId="Frequency"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="LFO1 TIME lab" x="0" y="2" text="TIME"
+                 width="25" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="LFO1Frequency" fontStyle="Bold" enabled="0"
+                 alignment="left"/>
+    </Component>
+    <Component type="ScriptSlider" id="LFO1 FADE IN" x="74" y="48" width="111"
+               height="14" style="Horizontal" processorId="LFO1" parameterId="FadeIn"
+               bgColour="1531858510" itemColour="1713342612" itemColour2="461673108"
+               textColour="946902920" middlePosition="1000" mode="Time" max="3000"
+               stepSize="1" suffix=" ms" showValuePopup="Below" parentComponent="LFOPANEL"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="LFO1 FADE IN lab" x="0" y="2" text="FADE"
+                 width="25" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="LFO1 FADE IN" fontStyle="Bold" enabled="0" alignment="left"/>
+    </Component>
+    <Component type="ScriptSlider" id="LFO1 SHAPE" x="74" y="68" width="111"
+               height="14" style="Horizontal" processorId="LFO1" parameterId="SmoothingTime"
+               bgColour="1531858510" itemColour="1713342612" itemColour2="461673108"
+               textColour="946902920" middlePosition="500" max="1000" stepSize="1"
+               showValuePopup="Below" parentComponent="LFOPANEL" showTextBox="0"
+               mode="Time" suffix="ms">
+      <Component type="ScriptLabel" id="LFO1 SHAPE lab" x="0" y="2" text="SHAPE"
+                 width="31" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="LFO1 SHAPE" fontStyle="Bold" enabled="0" alignment="left"/>
+    </Component>
+    <Component type="ScriptSlider" id="LFO1 PHASE" x="74" y="88" width="111"
+               height="14" style="Horizontal" processorId="LFO1" parameterId="PhaseOffset"
+               bgColour="1531858510" itemColour="1713342612" itemColour2="461673108"
+               textColour="946902920" middlePosition="50" max="100" stepSize="1"
+               showValuePopup="Below" parentComponent="LFOPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="LFO1 PHASE lab" x="0" y="2" text="PHASE"
+                 width="31" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="LFO1 PHASE" fontStyle="Bold" enabled="0" alignment="left"/>
+    </Component>
+    <Component type="ScriptButton" id="LFO1Sync" x="106" y="114" width="15"
+               height="10" bgColour="16777215" itemColour="3355443" itemColour2="1118481"
+               filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="LFOPANEL"/>
+    <Component type="ScriptButton" id="LFO1 LEGATO" x="162" y="114" width="15"
+               height="10" processorId="LFO1" parameterId="Legato" itemColour2="1118481"
+               itemColour="3355443" bgColour="16777215" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" parentComponent="LFOPANEL"/>
+    <Component type="ScriptSlider" id="LFO2 INTENSITY" x="239" y="7" width="190"
+               height="10" style="Horizontal" processorId="LFO2" parameterId="Intensity"
+               bgColour="1531858510" itemColour="1713342612" itemColour2="1443319382"
+               textColour="4053406" showValuePopup="Below" parentComponent="LFOPANEL"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="LFO2 INTENSITY lab" x="0" y="0" text="INTENSITY"
+                 width="53" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="LFO2 INTENSITY" fontStyle="Bold" enabled="0"/>
+    </Component>
+    <Component type="ScriptLabel" id="LFO 2" x="195" y="7" width="40" height="10"
+               fontName="Calibri" fontStyle="Bold" alignment="right" bgColour="939580636"
+               textColour="2734686207" processorId="GLFO 2" parameterId="Enabled"
+               itemColour="859955449" parentComponent="LFOPANEL" fontSize="10"
+               editable="0" enabled="0"/>
+    <Component type="ScriptComboBox" id="LFO2WaveForm" x="195" y="28" parentComponent="LFOPANEL"
+               width="60" height="17" text="LFO2 Wave" bgColour="1024082770"
+               itemColour="1531858510" itemColour2="4279975253" textColour="2726015169"
+               items="&#10;SIN&#10;TRI&#10;SAW&#10;SQR&#10;CST" max="5"/>
+    <Component type="ScriptLabel" id="LFO I26" x="208" y="112" width="44" height="10"
+               fontName="Calibri" fontStyle="Bold" alignment="left" bgColour="570481884"
+               textColour="2734686207" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="859955449" parentComponent="LFOPANEL" fontSize="10"
+               editable="0" text="EDIT" enabled="0"/>
+    <Component type="ScriptButton" id="LFO2Edit" x="239" y="114" width="15"
+               height="10" bgColour="16777215" itemColour="3355443" itemColour2="1118481"
+               filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="LFOPANEL"/>
+    <Component type="ScriptButton" id="LFO 2 ENABLE" x="195" y="9" width="15"
+               height="10" bgColour="16777215" itemColour="3355443" itemColour2="1118481"
+               textColour="16777215" scaleFactor="0.025" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               parentComponent="LFOPANEL" processorId="LFO2" parameterId="Enabled"/>
+    <Component type="ScriptButton" id="LFO2Sync" x="290" y="114" width="15"
+               height="10" bgColour="16777215" itemColour="3355443" itemColour2="1118481"
+               filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="LFOPANEL"/>
+    <Component type="ScriptButton" id="LFO2 LEGATO" x="347" y="114" width="15"
+               height="10" processorId="LFO2" parameterId="Legato" bgColour="16777215"
+               itemColour="3355443" itemColour2="1118481" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" parentComponent="LFOPANEL"/>
+    <Component type="ScriptSlider" id="LFO2Frequency" x="259" y="28" width="170"
+               height="14" style="Horizontal" processorId="LFO2" parameterId="Frequency"
+               bgColour="1531858510" itemColour="1713342612" itemColour2="461673108"
+               textColour="946902920" middlePosition="5" max="20" mode="Frequency"
+               parentComponent="LFOPANEL" showValuePopup="Below" defaultValue="1"
+               suffix=" Hz" showTextBox="0">
+      <Component type="ScriptLabel" id="LFO2 TIME lab" x="0" y="2" text="TIME"
+                 width="25" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="LFO2Frequency" fontStyle="Bold" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="LFO2 FADE" x="259" y="48" width="170"
+               height="14" style="Horizontal" processorId="LFO2" parameterId="FadeIn"
+               bgColour="1531858510" itemColour="1713342612" itemColour2="461673108"
+               textColour="946902920" middlePosition="1000" mode="Time" max="3000"
+               stepSize="1" suffix=" ms" showValuePopup="Below" parentComponent="LFOPANEL"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="LFO2 FADE IN lab" x="0" y="2" text="FADE"
+                 width="25" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="LFO2 FADE" fontStyle="Bold" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="LFO2 SHAPE" x="259" y="68" width="170"
+               height="14" style="Horizontal" processorId="LFO2" parameterId="SmoothingTime"
+               bgColour="1531858510" itemColour="1713342612" itemColour2="461673108"
+               textColour="946902920" middlePosition="500" max="1000" stepSize="1"
+               showValuePopup="Below" parentComponent="LFOPANEL" showTextBox="0"
+               mode="Time" suffix="ms">
+      <Component type="ScriptLabel" id="LFO2 SHAPE lab" x="0" y="2" text="SHAPE"
+                 width="31" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="LFO2 SHAPE" fontStyle="Bold" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="LFO2 PHASE" x="259" y="88" width="170"
+               height="14" style="Horizontal" processorId="LFO2" parameterId="PhaseOffset"
+               bgColour="1531858510" itemColour="1713342612" itemColour2="461673108"
+               textColour="946902920" middlePosition="50" max="100" stepSize="1"
+               showValuePopup="Below" parentComponent="LFOPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="LFO2 SHAPE lab2" x="0" y="2" text="PHASE"
+                 width="31" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="LFO2 PHASE" fontStyle="Bold" enabled="0"/>
+    </Component>
+    <Component type="ScriptLabel" id="LFO 3" x="439" y="7" width="40" height="10"
+               fontName="Calibri" fontStyle="Bold" alignment="right" bgColour="939580636"
+               textColour="2734686207" processorId="GLFO 3" parameterId="Enabled"
+               itemColour="859955449" parentComponent="LFOPANEL" fontSize="10"
+               editable="0" enabled="0"/>
+    <Component type="ScriptComboBox" id="LFO3WaveForm" x="439" y="28" parentComponent="LFOPANEL"
+               width="60" height="17" text="LFO3 Wave" bgColour="1024082770"
+               itemColour="1531858510" itemColour2="4279975253" textColour="2726015169"
+               items="&#10;SIN&#10;TRI&#10;SAW&#10;SQR&#10;PAT" max="5"/>
+    <Component type="ScriptButton" id="LFO3 ENABLE" x="439" y="9" width="15"
+               height="10" bgColour="16777215" itemColour="3355443" itemColour2="1118481"
+               textColour="16777215" scaleFactor="0.025" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               parentComponent="LFOPANEL" processorId="LFO3" parameterId="Enabled"/>
+    <Component type="ScriptSlider" id="LFO3 INTENSITY" x="483" y="7" width="190"
+               height="10" style="Horizontal" processorId="LFO3" parameterId="Intensity"
+               bgColour="1531858510" itemColour="1713342612" itemColour2="1443319382"
+               textColour="4053406" showValuePopup="Below" parentComponent="LFOPANEL"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="LFO3 INTENSITY lab" x="0" y="0" text="INTENSITY"
+                 width="50" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="LFO3 INTENSITY" fontStyle="Bold" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="LFO3Frequency" x="503" y="28" width="170"
+               height="14" style="Horizontal" processorId="LFO3" parameterId="Frequency"
+               bgColour="1531858510" itemColour="1713342612" itemColour2="461673108"
+               textColour="946902920" middlePosition="5" max="18" mode="TempoSync"
+               parentComponent="LFOPANEL" showValuePopup="Below" defaultValue="1"
+               suffix=" Hz" showTextBox="0">
+      <Component type="ScriptLabel" id="LFO3 TIME lab" x="0" y="2" text="TIME"
+                 width="25" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="LFO3Frequency" fontStyle="Bold" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="LFO3 FADE IN" x="503" y="48" width="170"
+               height="14" style="Horizontal" processorId="LFO3" parameterId="FadeIn"
+               bgColour="1531858510" itemColour="1713342612" itemColour2="461673108"
+               textColour="946902920" middlePosition="1000" mode="Time" max="3000"
+               stepSize="1" suffix=" ms" showValuePopup="Below" parentComponent="LFOPANEL"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="LFO3 FADE IN lab" x="0" y="2" text="FADE"
+                 width="25" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="LFO3 FADE IN" fontStyle="Bold" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="LFO3 SHAPE" x="503" y="68" width="170"
+               height="14" style="Horizontal" processorId="LFO3" parameterId="SmoothingTime"
+               bgColour="1531858510" itemColour="1713342612" itemColour2="461673108"
+               textColour="946902920" middlePosition="500" max="1000" stepSize="1"
+               showValuePopup="Below" parentComponent="LFOPANEL" showTextBox="0"
+               mode="Time" suffix="ms">
+      <Component type="ScriptLabel" id="LFO3 SHAPE lab" x="0" y="2" text="SHAPE"
+                 width="30" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" fontStyle="Bold" editable="0" macroControl="No MacroControl"
+                 parentComponent="LFO3 SHAPE" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="LFO3 PHASE" x="503" y="89" width="170"
+               height="14" style="Horizontal" processorId="LFO3" parameterId="PhaseOffset"
+               bgColour="1531858510" itemColour="1713342612" itemColour2="461673108"
+               textColour="946902920" middlePosition="50" max="100" stepSize="1"
+               showValuePopup="Below" parentComponent="LFOPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="LFO3 PHASE lab" x="0" y="2" text="PHASE"
+                 width="30" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" fontStyle="Bold" editable="0" macroControl="No MacroControl"
+                 parentComponent="LFO3 PHASE" enabled="0"/>
+    </Component>
+    <Component type="ScriptPanel" id="LFO3SLIDERS" x="439" y="21" width="234"
+               height="88" parentComponent="LFOPANEL" text="LFO3SLIDERS " bgColour="16777215"
+               itemColour="4278190080" itemColour2="4278190080" borderRadius="1"
+               textColour="2385659464" visible="0">
+      <Component type="ScriptLabel" id="bckgrndlfo3" x="2" y="4" parentComponent="LFO3SLIDERS"
+                 width="228" height="80" bgColour="2636851754" text="" itemColour2="16777215"
+                 textColour="0" enabled="0" itemColour="2268608568"/>
+      <Component type="ScriptSliderPack" id="SLIDERS" x="1" y="0" processorId="LFO3"
+                 width="234" height="88" bgColour="1533851584" itemColour="3207556725"
+                 itemColour2="8688276" textColour="376477576" parentComponent="LFO3SLIDERS"
+                 text="LFO 3 SLIDERS">
+        <Component type="ScriptLabel" id="LFO3 STEPS lab" x="0" y="90" text="STEPS"
+                   width="39" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                   textColour="2734686207" fontStyle="Bold" editable="0" macroControl="No MacroControl"
+                   parentComponent="SLIDERS" alignment="left" visible="0" enabled="0"/>
+      </Component>
+    </Component>
+    <Component type="ScriptButton" id="LFO3Sync" x="533" y="114" width="15"
+               height="10" itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+               filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="LFOPANEL"/>
+    <Component type="ScriptButton" id="LFO3 LEGATO" x="593" y="114" width="15"
+               height="10" processorId="LFO3" parameterId="Legato" itemColour2="1118481"
+               itemColour="3355443" bgColour="16777215" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" parentComponent="LFOPANEL"/>
+    <Component type="ScriptButton" id="LFO3 LOOP ENABLE" x="643" y="114" width="15"
+               height="10" processorId="LFO3" parameterId="LoopEnabled" itemColour2="1118481"
+               itemColour="3355443" bgColour="16777215" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" parentComponent="LFOPANEL"/>
+    <Component type="ScriptPanel" id="LFO2CUSTOM" x="195" y="21" width="234"
+               height="88" parentComponent="LFOPANEL" bgColour="16777215" itemColour="4278190080"
+               itemColour2="4278190080" borderRadius="1" textColour="4278460965"
+               opaque="1" visible="0">
+      <Component type="ScriptLabel" id="bckgrndlfo2" x="3" y="3" parentComponent="LFO2CUSTOM"
+                 width="228" height="82" bgColour="4281545523" text="" itemColour2="4294967295"
+                 textColour="0" itemColour="4278190080" enabled="0"/>
+      <Component type="ScriptSliderPack" id="SLIDERS LFO 2 REF" x="1" y="0" processorId="Interface"
+                 width="234" height="88" bgColour="655997130" itemColour="3039448402"
+                 itemColour2="8688276" textColour="259037064" parentComponent="LFO2CUSTOM"
+                 text="LFO 2 SLIDERS REF" enabled="0" saveInPreset="0"/>
+      <Component type="ScriptTable" id="LFO2_CUSTOM" x="-1" y="-1" parentComponent="LFO2CUSTOM"
+                 width="236" height="90" processorId="LFO2" customColours="1"
+                 bgColour="739717685" itemColour="0" itemColour2="4280703323"/>
+    </Component>
+    <Component type="ScriptLabel" id="LFO I27" x="453" y="112" width="44" height="10"
+               fontName="Calibri" fontStyle="Bold" alignment="left" bgColour="570481884"
+               textColour="2734686207" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="859955449" parentComponent="LFOPANEL" fontSize="10"
+               editable="0" text="EDIT" enabled="0"/>
+    <Component type="ScriptButton" id="LFO3Edit" x="484" y="114" width="15"
+               height="10" bgColour="16777215" itemColour="3355443" itemColour2="1118481"
+               filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="LFOPANEL" text="LFO2EDIT"/>
+    <Component type="ScriptLabel" id="LFO I28" x="367" y="112" width="44" height="10"
+               fontName="Calibri" fontStyle="Bold" alignment="left" bgColour="570481884"
+               textColour="3297692367" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="859955449" parentComponent="LFOPANEL" fontSize="10"
+               editable="0" text="LOOP" enabled="0"/>
+    <Component type="ScriptButton" id="LFO3 LOOP ENABLE1" x="398" y="114" width="15"
+               height="10" processorId="LFO2" parameterId="LoopEnabled" itemColour2="1118481"
+               itemColour="3355443" bgColour="16777215" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" parentComponent="LFOPANEL" text="LFO2 LOOP ENABLE"/>
+  </Component>
+  <Component type="ScriptPanel" id="FXPANEL" x="1" y="344" width="683" height="131"
+             textColour="1849510211" borderRadius="1" itemColour2="1159537199"
+             itemColour="1161456779" borderSize="1.4" enabled="0" visible="0">
+    <Component type="ScriptLabel" id="LFO I10" x="131" y="6" width="13" height="22"
+               fontName="Calibri" fontStyle="Regular" alignment="left" bgColour="2593480984"
+               textColour="3297692367" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="859955449" parentComponent="FXPANEL" fontSize="11"
+               editable="0" text=""/>
+    <Component type="ScriptLabel" id="LFO I8" x="10" y="6" width="13" height="22"
+               fontName="Calibri" fontStyle="Regular" alignment="left" bgColour="2593480984"
+               textColour="3297692367" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="859955449" parentComponent="FXPANEL" fontSize="11"
+               editable="0" text=""/>
+    <Component type="ScriptLabel" id="LFO I13" x="559" y="6" width="13" height="22"
+               fontName="Calibri" fontStyle="Regular" alignment="left" bgColour="2521585855"
+               textColour="3297692367" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="859955449" parentComponent="FXPANEL" fontSize="11"
+               editable="0" text=""/>
+    <Component type="ScriptLabel" id="LFO I14" x="218" y="6" width="13" height="22"
+               fontName="Calibri" fontStyle="Regular" alignment="left" bgColour="2593480984"
+               textColour="3297692367" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="859955449" parentComponent="FXPANEL" fontSize="11"
+               editable="0" text=""/>
+    <Component type="ScriptLabel" id="LFO I15" x="379" y="6" width="13" height="22"
+               fontName="Calibri" fontStyle="Regular" alignment="left" bgColour="2521585855"
+               textColour="3297692367" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="859955449" parentComponent="FXPANEL" fontSize="11"
+               editable="0" text=""/>
+    <Component type="ScriptLabel" id="COMPRESION" x="22" y="5" width="70" height="12"
+               fontName="Calibri" fontSize="10" itemColour2="1118481" textColour="2734686207"
+               editable="0" macroControl="No MacroControl" parentComponent="FXPANEL"
+               text="COMPRESSION" alignment="left" fontStyle="Bold" enabled="0"/>
+    <Component type="ScriptLabel" id="COMPRESION MAKEUP" x="22" y="17" text="COMPRESSION MAKEUP"
+               width="100" height="12" fontName="Calibri" fontSize="10" itemColour2="1118481"
+               textColour="2734686207" editable="0" macroControl="No MacroControl"
+               parentComponent="FXPANEL" alignment="left" fontStyle="Bold" enabled="0"/>
+    <Component type="ScriptButton" id="COMPRESION ENABLE" x="10" y="8" width="15"
+               height="10" itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+               processorId="Dynamics1" parameterId="CompressorEnabled" text="COMPRESION"
+               filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="FXPANEL"/>
+    <Component type="ScriptButton" id="COMP MAKEUP" x="10" y="20" width="15"
+               height="10" itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+               processorId="Dynamics1" parameterId="CompressorMakeup" text="COMP. MAKEUP"
+               filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="FXPANEL"/>
+    <Component type="ScriptSlider" id="COMP THRESHOLD" x="10" y="34" processorId="Dynamics1"
+               parameterId="CompressorThreshold" min="-100" max="0" mode="Decibel"
+               stepSize="0.1" middlePosition="-50" style="Horizontal" width="110"
+               height="16" bgColour="1531858510" itemColour="2593480984" itemColour2="266326437"
+               textColour="3876352" showValuePopup="Above" parentComponent="FXPANEL"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="COMPRESS THRESHOLD" x="26" y="3" text="THRESHOLD"
+                 width="59" height="10" fontName="Arial Rounded MT" fontSize="8"
+                 itemColour2="1118481" editable="0" macroControl="No MacroControl"
+                 parentComponent="COMP THRESHOLD" textColour="2734686207" enabled="0"
+                 fontStyle="Bold"/>
+    </Component>
+    <Component type="ScriptSlider" id="COMP RATIO" x="10" y="54" processorId="Dynamics1"
+               parameterId="CompressorRatio" min="1" max="32" stepSize="0.1"
+               middlePosition="16.5" style="Horizontal" width="110" height="16"
+               textColour="3876352" itemColour2="266326437" itemColour="2593480984"
+               bgColour="1531858510" showValuePopup="Above" parentComponent="FXPANEL"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="COMPRESSION RATIO" x="26" y="3" text="RATIO"
+                 width="59" height="10" fontName="Arial Rounded MT" fontSize="8"
+                 itemColour2="1118481" editable="0" macroControl="No MacroControl"
+                 parentComponent="COMP RATIO" textColour="2734686207" enabled="0"
+                 fontStyle="Bold"/>
+    </Component>
+    <Component type="ScriptSlider" id="COMP ATTACK" x="10" y="74" processorId="Dynamics1"
+               parameterId="CompressorAttack" max="100" stepSize="0.1" middlePosition="50"
+               style="Horizontal" width="110" height="16" bgColour="1531858510"
+               itemColour="2593480984" itemColour2="266326437" textColour="3876352"
+               showValuePopup="Above" parentComponent="FXPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="COMPRESS ATTACK" x="26" y="3" text="ATTACK"
+                 width="59" height="10" fontName="Arial Rounded MT" fontSize="8"
+                 itemColour2="1118481" editable="0" macroControl="No MacroControl"
+                 parentComponent="COMP ATTACK" textColour="2734686207" enabled="0"
+                 fontStyle="Bold"/>
+    </Component>
+    <Component type="ScriptSlider" id="COMP RELEASE" x="10" y="94" processorId="Dynamics1"
+               parameterId="CompressorRelease" max="300" stepSize="0.1" style="Horizontal"
+               width="110" height="16" itemColour="2593480984" bgColour="1531858510"
+               itemColour2="266326437" textColour="3876352" middlePosition="150"
+               showValuePopup="Above" parentComponent="FXPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="COMPRESS RELEASE" x="26" y="3" text="RELEASE"
+                 width="59" height="10" fontName="Arial Rounded MT" fontSize="8"
+                 itemColour2="1118481" editable="0" macroControl="No MacroControl"
+                 parentComponent="COMP RELEASE" textColour="2734686207" enabled="0"
+                 fontStyle="Bold"/>
+    </Component>
+    <Component type="ScriptButton" id="SATURATION ENABLE" x="131" y="8" width="15"
+               height="10" itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+               processorId="Saturator1" parameterId="Enabled" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" parentComponent="FXPANEL"/>
+    <Component type="ScriptLabel" id="SATURATOR" x="144" y="5" text="SATURATION"
+               width="61" height="12" fontName="Calibri" fontSize="10" itemColour2="1118481"
+               textColour="2734686207" editable="0" alignment="left" macroControl="No MacroControl"
+               parentComponent="FXPANEL" fontStyle="Bold" enabled="0"/>
+    <Component type="ScriptSlider" id="SATURATION" x="131" y="33" processorId="Saturator1"
+               parameterId="Saturation" style="Vertical" width="40" height="77"
+               textColour="2019467469" itemColour2="343968224" itemColour="2073249554"
+               bgColour="496737179" text="SAT" showValuePopup="Left" parentComponent="FXPANEL"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="SATURATE" x="-4" y="64" width="48" height="10"
+                 fontName="Calibri" fontSize="10" itemColour2="1118481" textColour="2734686207"
+                 editable="0" macroControl="No MacroControl" parentComponent="SATURATION"
+                 fontStyle="Bold" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="SATURATION MIX" x="176" y="33" processorId="Saturator1"
+               parameterId="WetAmount" style="Vertical" width="30" height="77"
+               textColour="2019467469" itemColour2="343968224" itemColour="2073249554"
+               bgColour="496737179" showValuePopup="Left" parentComponent="FXPANEL"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="SAT WET" x="0" y="64" text="MIX" width="30"
+                 height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="SATURATION MIX" fontStyle="Bold" enabled="0"/>
+    </Component>
+    <Component type="ScriptLabel" id="REVERBATION" x="572" y="4" text="REVERB"
+               width="40" height="12" fontName="Calibri" fontSize="10" itemColour2="1118481"
+               textColour="2734686207" editable="0" alignment="left" macroControl="No MacroControl"
+               parentComponent="FXPANEL" fontStyle="Bold" enabled="0"/>
+    <Component type="ScriptButton" id="REVERB ENABLE" x="559" y="8" width="15"
+               height="10" itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+               processorId="Simple Reverb1" parameterId="Enabled" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" parentComponent="FXPANEL"/>
+    <Component type="ScriptButton" id="REVERB FREEZE" x="559" y="20" width="15"
+               height="10" itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+               processorId="Simple Reverb1" parameterId="FreezeMode" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" parentComponent="FXPANEL"/>
+    <Component type="ScriptSlider" id="REVERB MIX" x="559" y="65" processorId="Simple Reverb1"
+               parameterId="WetLevel" style="Horizontal" width="114" height="12"
+               bgColour="496737179" itemColour="2521585855" itemColour2="343968224"
+               textColour="2019467469" showValuePopup="Above" parentComponent="FXPANEL"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="REV WIDTH" x="29" y="2" text="WIDTH" width="40"
+                 height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="REVERB MIX" enabled="0" fontStyle="Bold"/>
+    </Component>
+    <Component type="ScriptSlider" id="REVERB DAMP" x="559" y="49" processorId="Simple Reverb1"
+               parameterId="Damping" style="Horizontal" width="114" height="12"
+               bgColour="496737179" itemColour="2521585855" itemColour2="343968224"
+               textColour="2019467469" stepSize="0.1" showValuePopup="Above"
+               parentComponent="FXPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="REV DAMPING" x="24" y="2" text="DAMPING"
+                 width="50" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="REVERB DAMP" enabled="0" fontStyle="Bold"/>
+    </Component>
+    <Component type="ScriptSlider" id="REVERB SIZE" x="559" y="33" processorId="Simple Reverb1"
+               parameterId="RoomSize" style="Horizontal" width="114" height="12"
+               bgColour="496737179" itemColour="2521585855" itemColour2="343968224"
+               textColour="2019467469" stepSize="0.1" showValuePopup="Above"
+               parentComponent="FXPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="ROOM SIZE" x="20" y="1" width="60" height="10"
+                 fontName="Calibri" fontSize="10" itemColour2="1118481" textColour="2734686207"
+                 editable="0" macroControl="No MacroControl" parentComponent="REVERB SIZE"
+                 enabled="0" fontStyle="Bold"/>
+    </Component>
+    <Component type="ScriptSlider" id="REVERB MIX1" x="559" y="81" processorId="Simple Reverb1"
+               parameterId="DryLevel" style="Horizontal" width="114" height="12"
+               bgColour="496737179" itemColour="2521585855" itemColour2="343968224"
+               textColour="2019467469" showValuePopup="Above" parentComponent="FXPANEL"
+               showTextBox="0" text="REVERB DRY">
+      <Component type="ScriptLabel" id="REV WET1" x="29" y="2" text="DRY" width="40"
+                 height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="REVERB MIX1" enabled="0" fontStyle="Bold" processorId="Simple Reverb1"
+                 parameterId="WetLevel"/>
+    </Component>
+    <Component type="ScriptSlider" id="REVERB WET" x="559" y="97" processorId="Simple Reverb1"
+               parameterId="WetLevel" style="Horizontal" width="114" height="12"
+               bgColour="496737179" itemColour="2521585855" itemColour2="343968224"
+               textColour="2019467469" showValuePopup="Above" parentComponent="FXPANEL"
+               showTextBox="0" text="WET">
+      <Component type="ScriptLabel" id="REV WET lab" x="29" y="1" text="WET" width="40"
+                 height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="REVERB WET" enabled="0" fontStyle="Bold" processorId="Simple Reverb1"
+                 parameterId="WetLevel"/>
+    </Component>
+    <Component type="ScriptButton" id="DEGRADE ENABLE" x="218" y="8" width="15"
+               height="10" itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+               processorId="Degrade1" parameterId="Enabled" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" parentComponent="FXPANEL"/>
+    <Component type="ScriptSlider" id="DEGRADE HRMONIX" x="218" y="33" processorId="Degrade1"
+               parameterId="NonLin" style="Horizontal" width="148" height="16"
+               textColour="2019467469" itemColour2="343968224" itemColour="2073249554"
+               bgColour="496737179" isMetaParameter="1" min="9" max="-9" middlePosition="9"
+               showValuePopup="Left" parentComponent="FXPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="DEGRADE HARM" x="0" y="4" text="HRMNIX"
+                 width="58" height="12" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="DEGRADE HRMONIX" fontStyle="Bold" alignment="left"
+                 enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="DEGRADE BITS" x="218" y="53" processorId="Degrade1"
+               parameterId="Quant" style="Horizontal" width="148" height="16"
+               textColour="2019467469" itemColour2="343968224" itemColour="2073249554"
+               bgColour="496737179" defaultValue="1" middlePosition="0.5" showValuePopup="Left"
+               parentComponent="FXPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="DEGRADE BIT" x="0" y="4" text="BITS" width="40"
+                 height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="DEGRADE BITS" fontStyle="Bold" alignment="left"
+                 enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="DEGRADE SAMPLE RATE" x="218" y="73" processorId="Degrade1"
+               parameterId="Rate" style="Horizontal" width="148" height="16"
+               textColour="2019467469" itemColour2="343968224" itemColour="2073249554"
+               bgColour="496737179" min="44" mode="Discrete" middlePosition="44"
+               showValuePopup="Left" parentComponent="FXPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="DEGRADE SRate" x="0" y="4" text="S.RATE"
+                 width="59" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="DEGRADE SAMPLE RATE" fontStyle="Bold" alignment="left"
+                 enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="DEGRADE FILTER" x="218" y="93" processorId="Degrade1"
+               parameterId="PostFilt" style="Horizontal" width="148" height="16"
+               textColour="2019467469" itemColour2="343968224" itemColour="2073249554"
+               bgColour="496737179" text="DEGRADE FILT" middlePosition="0.5"
+               showValuePopup="Left" parentComponent="FXPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="DEGRADE PFILTEr" x="0" y="3" text="FILTER"
+                 width="59" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="DEGRADE FILTER" fontStyle="Bold" alignment="left"
+                 enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="DEGRADE MIX" x="236" y="18" processorId="Degrade1"
+               parameterId="DryWet" style="Horizontal" width="130" height="10"
+               bgColour="496737179" itemColour="2073249554" itemColour2="343968224"
+               textColour="2019467469" useUndoManager="1" showValuePopup="Above"
+               parentComponent="FXPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="DEGRADE MIX__" x="0" y="0" text="MIX"
+                 width="59" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="DEGRADE MIX" alignment="left" fontStyle="Bold"
+                 enabled="0"/>
+    </Component>
+    <Component type="ScriptLabel" id="DELAY" x="392" y="4" width="50" height="12"
+               fontName="Calibri" fontSize="10" itemColour2="1118481" textColour="3297692367"
+               editable="0" alignment="left" processorId="Delay1" macroControl="No MacroControl"
+               parentComponent="FXPANEL" fontStyle="Bold" enabled="0"/>
+    <Component type="ScriptLabel" id="DELAY1 SYNC" x="392" y="18" text="SYNC"
+               width="40" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+               textColour="3297692367" editable="0" alignment="left" processorId="Delay1"
+               macroControl="No MacroControl" parentComponent="FXPANEL" fontStyle="Bold"
+               enabled="0"/>
+    <Component type="ScriptLabel" id="DEGRADE " x="231" y="5" text="DEGRADE"
+               width="57" height="12" fontName="Calibri" fontSize="10" itemColour2="1118481"
+               textColour="3297692367" editable="0" alignment="left" macroControl="No MacroControl"
+               parentComponent="FXPANEL" fontStyle="Bold" enabled="0"/>
+    <Component type="ScriptSlider" id="DELAY MIX" x="423" y="18" processorId="Delay1"
+               parameterId="Mix" middlePosition="0.5" style="Horizontal" width="124"
+               height="10" bgColour="496737179" itemColour="2521585855" itemColour2="343968224"
+               textColour="2019467469" showValuePopup="Above" parentComponent="FXPANEL"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="DELAY MIX1" x="35" y="0" text="MIX" width="59"
+                 height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="DELAY MIX" fontStyle="Bold" enabled="0"/>
+    </Component>
+    <Component type="ScriptButton" id="DELAY ON" x="379" y="8" width="15" height="10"
+               itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+               processorId="Delay1" parameterId="Enabled" text="" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" parentComponent="FXPANEL"/>
+    <Component type="ScriptSlider" id="DELAYTIMELEFT" x="379" y="33" processorId="Delay1"
+               parameterId="DelayTimeLeft" mode="TempoSync" style="Horizontal"
+               width="167" height="17" bgColour="496737179" itemColour="2521585855"
+               itemColour2="343968224" textColour="2019467469" max="18" showValuePopup="Above"
+               parentComponent="FXPANEL" showTextBox="0" middlePosition="9"
+               stepSize="1">
+      <Component type="ScriptLabel" id="DELAY LDELAY" x="54" y="3" text="LEFT DELAY"
+                 width="59" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="DELAYTIMELEFT" fontStyle="Bold" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="DELAY LEFT FEEDBACK" x="379" y="55" processorId="Delay1"
+               parameterId="FeedbackLeft" style="Horizontal" width="167" height="14"
+               bgColour="496737179" itemColour="2521585855" itemColour2="343968224"
+               textColour="2019467469" showValuePopup="Above" parentComponent="FXPANEL"
+               showTextBox="0">
+      <Component type="ScriptLabel" id="DELAY LFEEDBACK" x="44" y="1" text="LEFT FEEDBACK"
+                 width="80" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="DELAY LEFT FEEDBACK" fontStyle="Bold" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="DELAYTIMERIGHT" x="379" y="74" processorId="Delay1"
+               parameterId="DelayTimeRight" mode="TempoSync" style="Horizontal"
+               width="167" height="17" bgColour="496737179" itemColour="2521585855"
+               itemColour2="343968224" textColour="2019467469" max="18" showValuePopup="Above"
+               parentComponent="FXPANEL" showTextBox="0" middlePosition="9"
+               stepSize="1">
+      <Component type="ScriptLabel" id="DELAY RDELAY" x="43" y="3" text="RIGHT DELAY"
+                 width="80" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="DELAYTIMERIGHT" fontStyle="Bold" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="DELAY RIGHT FEEDBACK" x="379" y="96"
+               processorId="Delay1" parameterId="FeedbackRight" style="Horizontal"
+               width="167" height="13" bgColour="496737179" itemColour="2521585855"
+               itemColour2="343968224" textColour="2019467469" showValuePopup="Above"
+               parentComponent="FXPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="DELAY RFEEDBACK" x="39" y="1" text="RIGHT FEEDBACK"
+                 width="90" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 textColour="2734686207" editable="0" macroControl="No MacroControl"
+                 parentComponent="DELAY RIGHT FEEDBACK" fontStyle="Bold" enabled="0"/>
+    </Component>
+    <Component type="ScriptButton" id="DELAYSYNC" x="379" y="20" width="15"
+               height="10" itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+               filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="FXPANEL"/>
+    <Component type="ScriptLabel" id="REVERBATION1" x="572" y="16" text="FREEZE"
+               width="40" height="12" fontName="Calibri" fontSize="10" itemColour2="1118481"
+               textColour="2734686207" editable="0" alignment="left" macroControl="No MacroControl"
+               parentComponent="FXPANEL" fontStyle="Bold" enabled="0"/>
+  </Component>
+  <Component type="ScriptPanel" id="LFOMODPANEL" x="1" y="344" width="683"
+             height="131" textColour="1849510211" borderRadius="1" itemColour2="1159537199"
+             itemColour="1161456779" borderSize="1.4">
+    <Component type="ScriptLabel" id="bttnbckg1" x="10" y="6" width="13" height="120"
+               fontName="Calibri" fontStyle="Regular" alignment="left" bgColour="1905615128"
+               textColour="3297692367" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="301578817" parentComponent="LFOMODPANEL" fontSize="11"
+               editable="0" text=""/>
+    <Component type="ScriptLabel" id="bttnbckg2" x="215" y="18" width="13" height="108"
+               fontName="Calibri" fontStyle="Regular" alignment="left" bgColour="1905615128"
+               textColour="3297692367" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="301578817" parentComponent="LFOMODPANEL" fontSize="11"
+               editable="0" text=""/>
+    <Component type="ScriptLabel" id="LFO1 to label" x="24" y="4" width="70"
+               height="12" fontName="Calibri" fontSize="10" itemColour2="1118481"
+               textColour="2734686207" editable="0" macroControl="No MacroControl"
+               parentComponent="LFOMODPANEL" text="LFO 1 to &gt; &gt; &gt;"
+               alignment="left" fontStyle="Bold" enabled="0"/>
+    <Component type="ScriptButton" id="LFO1 TO GAIN ON" x="10" y="20" width="13"
+               height="8" itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+               filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="LFOMODPANEL" processorId="LFO1 TO GAIN" parameterId="Enabled"/>
+    <Component type="ScriptSlider" id="LFO1 TO GAIN" x="29" y="18" middlePosition="0.5"
+               style="Horizontal" width="180" height="10" bgColour="1531858510"
+               itemColour="2593480984" itemColour2="266326437" textColour="3876352"
+               showValuePopup="Above" parentComponent="LFOMODPANEL" showTextBox="0"
+               processorId="LFO1 TO GAIN" parameterId="Intensity">
+      <Component type="ScriptLabel" id="LFO1 TO GAIN lab" x="0" y="0" text="GAIN"
+                 width="100" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 editable="0" macroControl="No MacroControl" parentComponent="LFO1 TO GAIN"
+                 textColour="2734686207" enabled="0" fontStyle="Bold" alignment="left"/>
+    </Component>
+    <Component type="ScriptButton" id="LFO1 TO PAN ON" x="10" y="35" width="13"
+               height="8" itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+               text="" filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="LFOMODPANEL" processorId="LFO1 TO PAN" parameterId="Enabled"/>
+    <Component type="ScriptSlider" id="LFO1 TO PAN" x="29" y="32" middlePosition="0"
+               style="Horizontal" width="180" height="10" bgColour="1531858510"
+               itemColour="2593480984" itemColour2="266326437" textColour="3876352"
+               showValuePopup="Above" parentComponent="LFOMODPANEL" showTextBox="0"
+               processorId="LFO1 TO PAN" parameterId="Intensity" min="-1">
+      <Component type="ScriptLabel" id="LFO1 TO PAN label" x="0" y="0" text="PAN"
+                 width="100" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 editable="0" macroControl="No MacroControl" parentComponent="LFO1 TO PAN"
+                 textColour="2734686207" enabled="0" fontStyle="Bold" alignment="left"/>
+    </Component>
+    <Component type="ScriptButton" id="LFO1 TO FILTER FREQUENCY ON" x="10" y="49"
+               width="13" height="8" itemColour2="1118481" itemColour="3355443"
+               bgColour="16777215" text="" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" parentComponent="LFOMODPANEL" processorId="LFO1 TO FILTER FREQUENCY"
+               parameterId="Enabled"/>
+    <Component type="ScriptSlider" id="LFO1 TO FILTER FREQUENCY" x="29" y="46"
+               middlePosition="0.5" style="Horizontal" width="180" height="10"
+               bgColour="1531858510" itemColour="2593480984" itemColour2="266326437"
+               textColour="3876352" showValuePopup="Above" parentComponent="LFOMODPANEL"
+               showTextBox="0" processorId="LFO1 TO FILTER FREQUENCY" parameterId="Intensity">
+      <Component type="ScriptLabel" id="LFO1 TO FILTER FREQUENCY label" x="0"
+                 y="0" text="FILTER FREQUENCY" width="100" height="10" fontName="Calibri"
+                 fontSize="10" itemColour2="1118481" editable="0" macroControl="No MacroControl"
+                 parentComponent="LFO1 TO FILTER FREQUENCY" textColour="2734686207"
+                 enabled="0" fontStyle="Bold" alignment="left"/>
+    </Component>
+    <Component type="ScriptButton" id="LFO1 TO FILTER RESONANCE ON" x="10" y="63"
+               width="13" height="8" itemColour2="1118481" itemColour="3355443"
+               bgColour="16777215" text="" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" parentComponent="LFOMODPANEL" processorId="LFO1 TO FILTER RESONANCE"
+               parameterId="Enabled"/>
+    <Component type="ScriptSlider" id="LFO1 TO FILTER RESONANCE" x="29" y="60"
+               middlePosition="0.5" style="Horizontal" width="180" height="10"
+               bgColour="1531858510" itemColour="2593480984" itemColour2="266326437"
+               textColour="3876352" showValuePopup="Above" parentComponent="LFOMODPANEL"
+               showTextBox="0" processorId="LFO1 TO FILTER RESONANCE" parameterId="Intensity">
+      <Component type="ScriptLabel" id="LFO1 TO FILTER RESONANCE label" x="0"
+                 y="0" text="FILTER RESONANCE" width="100" height="10" fontName="Calibri"
+                 fontSize="10" itemColour2="1118481" editable="0" macroControl="No MacroControl"
+                 parentComponent="LFO1 TO FILTER RESONANCE" textColour="2734686207"
+                 enabled="0" fontStyle="Bold" alignment="left"/>
+    </Component>
+    <Component type="ScriptButton" id="LFO1 TO FILTER BIPOLAR ON" x="10" y="77"
+               width="13" height="8" itemColour2="1118481" itemColour="3355443"
+               bgColour="16777215" text="" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" parentComponent="LFOMODPANEL" processorId="LFO1 TO FILTER RESONANCE"
+               parameterId="Enabled"/>
+    <Component type="ScriptSlider" id="LFO1 to FILTER BIPOLAR" x="29" y="74"
+               middlePosition="0.5" style="Horizontal" width="180" height="10"
+               bgColour="1531858510" itemColour="2593480984" itemColour2="266326437"
+               textColour="3876352" showValuePopup="Above" parentComponent="LFOMODPANEL"
+               showTextBox="0" processorId="LFO1 TO FILTER BIPOLAR" parameterId="Intensity">
+      <Component type="ScriptLabel" id="LFO1 TO FILTER BIPOLAR label" x="0" y="0"
+                 width="100" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 editable="0" macroControl="No MacroControl" parentComponent="LFO1 to FILTER BIPOLAR"
+                 textColour="2734686207" enabled="0" fontStyle="Bold" alignment="left"
+                 text="FILTER BIPOLAR"/>
+    </Component>
+    <Component type="ScriptButton" id="LFO1 TO FILTER GAIN ON" x="10" y="91"
+               width="13" height="8" itemColour2="1118481" itemColour="3355443"
+               bgColour="16777215" text="" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" parentComponent="LFOMODPANEL" processorId="LFO1 TO FILTER GAIN"
+               parameterId="Enabled"/>
+    <Component type="ScriptSlider" id="LFO1 TO FILTER GAIN" x="29" y="88" middlePosition="0.5"
+               style="Horizontal" width="180" height="10" bgColour="1531858510"
+               itemColour="2593480984" itemColour2="266326437" textColour="3876352"
+               showValuePopup="Above" parentComponent="LFOMODPANEL" showTextBox="0"
+               processorId="LFO1 TO FILTER GAIN" parameterId="Intensity">
+      <Component type="ScriptLabel" id="LFO1 TO FILTER GAIN label" x="0" y="0"
+                 text="FILTER GAIN" width="100" height="10" fontName="Calibri"
+                 fontSize="10" itemColour2="1118481" editable="0" macroControl="No MacroControl"
+                 parentComponent="LFO1 TO FILTER GAIN" textColour="2734686207"
+                 enabled="0" fontStyle="Bold" alignment="left"/>
+    </Component>
+    <Component type="ScriptButton" id="LFO1 TO PITCH ON" x="10" y="105" width="13"
+               height="8" itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+               text="" filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="LFOMODPANEL" processorId="LFO1 TO PITCH" parameterId="Enabled"/>
+    <Component type="ScriptSlider" id="LFO1 TO PITCH" x="29" y="102" middlePosition="0.5"
+               style="Horizontal" width="180" height="10" bgColour="1531858510"
+               itemColour="2593480984" itemColour2="266326437" textColour="3876352"
+               showValuePopup="Above" parentComponent="LFOMODPANEL" showTextBox="0"
+               processorId="LFO1 TO PITCH" parameterId="Intensity">
+      <Component type="ScriptLabel" id="LFO1 TO PITCH label" x="0" y="0" text="PITCH"
+                 width="100" height="10" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 editable="0" macroControl="No MacroControl" parentComponent="LFO1 TO PITCH"
+                 textColour="2734686207" enabled="0" fontStyle="Bold" alignment="left"/>
+    </Component>
+    <Component type="ScriptButton" id="LFO1 TO SAMPLESTART ON" x="10" y="119"
+               width="13" height="8" itemColour2="1118481" itemColour="3355443"
+               bgColour="16777215" text="" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" parentComponent="LFOMODPANEL" processorId="LFO1TOSAMPLESTART"
+               parameterId="Enabled"/>
+    <Component type="ScriptSlider" id="LFO1 TO SAMPLESTART" x="29" y="116" middlePosition="0.5"
+               style="Horizontal" width="180" height="10" bgColour="1531858510"
+               itemColour="2593480984" itemColour2="266326437" textColour="3876352"
+               showValuePopup="Above" parentComponent="LFOMODPANEL" showTextBox="0"
+               processorId="LFO1TOSAMPLESTART" parameterId="Intensity">
+      <Component type="ScriptLabel" id="LFO1 TO SAMPLESTART label" x="0" y="0"
+                 text="SAMPLE START" width="100" height="10" fontName="Calibri"
+                 fontSize="10" itemColour2="1118481" editable="0" macroControl="No MacroControl"
+                 parentComponent="LFO1 TO SAMPLESTART" textColour="2734686207"
+                 enabled="0" fontStyle="Bold" alignment="left"/>
+    </Component>
+    <Component type="ScriptLabel" id="LFO1 INV label" x="210" y="4" width="30"
+               height="12" fontName="Calibri" fontSize="10" itemColour2="1118481"
+               textColour="2734686207" editable="0" macroControl="No MacroControl"
+               parentComponent="LFOMODPANEL" text="INV" alignment="left" fontStyle="Bold"
+               enabled="0"/>
+    <Component type="ScriptButton" id="LFO1 TO GAIN INV" x="215" y="20" width="13"
+               height="8" itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+               filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="LFOMODPANEL" processorId="LFO1 TO GAIN" parameterId="Inverted"/>
+    <Component type="ScriptButton" id="LFO1 TO PAN INV" x="215" y="35" width="13"
+               height="8" itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+               text="" filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="LFOMODPANEL" processorId="LFO1 TO PAN" parameterId="Inverted"/>
+    <Component type="ScriptButton" id="LFO1 TO FILTER FREQUENCY INV" x="215"
+               y="49" width="13" height="8" itemColour2="1118481" itemColour="3355443"
+               bgColour="16777215" text="" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" parentComponent="LFOMODPANEL" processorId="LFO1 TO FILTER FREQUENCY"
+               parameterId="Inverted"/>
+    <Component type="ScriptButton" id="LFO1 TO FILTER RESONANCE INV" x="215"
+               y="63" width="13" height="8" itemColour2="1118481" itemColour="3355443"
+               bgColour="16777215" text="" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" parentComponent="LFOMODPANEL" processorId="LFO1 TO FILTER RESONANCE"
+               parameterId="Inverted"/>
+    <Component type="ScriptButton" id="LFO1 TO FILTER BIPOLAR INV" x="215" y="77"
+               width="13" height="8" itemColour2="1118481" itemColour="3355443"
+               bgColour="16777215" text="" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" parentComponent="LFOMODPANEL" processorId="LFO1 TO FILTER RESONANCE"
+               parameterId="Inverted"/>
+    <Component type="ScriptButton" id="LFO1 TO FILTER GAIN INV" x="215" y="91"
+               width="13" height="8" itemColour2="1118481" itemColour="3355443"
+               bgColour="16777215" text="" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" parentComponent="LFOMODPANEL" processorId="LFO1 TO FILTER GAIN"
+               parameterId="Inverted"/>
+    <Component type="ScriptButton" id="LFO1 TO PITCH INV" x="215" y="105" width="13"
+               height="8" itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+               text="" filmstripImage="{PROJECT_FOLDER}rect_button2.png" scaleFactor="0.025"
+               parentComponent="LFOMODPANEL" processorId="LFO1 TO PITCH" parameterId="Inverted"/>
+    <Component type="ScriptButton" id="LFO1 TO SAMPLESTART INV" x="215" y="119"
+               width="13" height="8" itemColour2="1118481" itemColour="3355443"
+               bgColour="16777215" text="" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" parentComponent="LFOMODPANEL" processorId="LFO1TOSAMPLESTART"
+               parameterId="Inverted"/>
+  </Component>
+  <Component type="ScriptPanel" id="MAINPANEL" x="1" y="476" width="683" height="30"
+             textColour="1849510211" borderRadius="1" itemColour2="1161456779"
+             itemColour="1159537199" borderSize="1.4" bgColour="1159537199">
+    <Component type="ScriptLabel" id="bttnbckg inv 26" x="24" y="10" width="13"
+               height="10" parentComponent="MAINPANEL" text="" bgColour="3124656766"
+               editable="0"/>
+    <Component type="ScriptButton" id="L1 ENABLE" x="24" y="12" width="15" height="10"
+               itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+               processorId="MidiMuter1" parameterId="ignoreButton" filmstripImage="{PROJECT_FOLDER}rect_button3inv.png"
+               scaleFactor="0.025" parentComponent="MAINPANEL" textColour="1090031872"/>
+    <Component type="ScriptLabel" id="ON SWITCH" x="5" y="8" width="20" height="14"
+               fontName="Arial Rounded MT" fontSize="8" itemColour2="1118481"
+               textColour="4286296257" editable="0" alignment="left" macroControl="No MacroControl"
+               parentComponent="MAINPANEL" text="ON"/>
+    <Component type="ScriptSlider" id="VOLUME" x="45" y="8" width="140" height="14"
+               textColour="4280163390" itemColour2="710844621" itemColour="2722003582"
+               bgColour="496737179" processorId="VOL PAN WIDTH" parameterId="Gain"
+               min="-50" middlePosition="-10" max="3" mode="Decibel" style="Horizontal"
+               showValuePopup="Above" showTextBox="0" parentComponent="MAINPANEL"
+               defaultValue="-10">
+      <Component type="ScriptLabel" id="VOLUME label" x="42" y="1" width="58"
+                 height="13" fontName="Calibri" fontSize="10" itemColour2="1118481"
+                 text="VOLUME " editable="0" macroControl="No MacroControl" parentComponent="VOLUME"
+                 fontStyle="Bold" textColour="2734686207" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="PAN" x="190" y="8" width="120" height="14"
+               itemColour2="710844621" itemColour="2722003582" bgColour="496737179"
+               processorId="VOL PAN WIDTH" parameterId="Balance" mode="Pan"
+               min="-100" max="100" stepSize="1" suffix="L" middlePosition="0"
+               style="Horizontal" textColour="4280163390" showTextBox="0" showValuePopup="Above"
+               parentComponent="MAINPANEL">
+      <Component type="ScriptLabel" id="PAN label" x="32" y="1" width="58" height="13"
+                 fontName="Calibri" fontSize="10" itemColour2="1118481" text="PANORAMA"
+                 editable="0" macroControl="No MacroControl" parentComponent="PAN"
+                 fontStyle="Bold" textColour="2734686207" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="MASTER VOLUME" x="513" y="8" processorId="MASTER VOLUME"
+               parameterId="Gain" min="-30" middlePosition="0" style="Horizontal"
+               width="160" height="14" bgColour="496737179" itemColour="2474126637"
+               itemColour2="343968224" textColour="2019467469" max="5" showValuePopup="Above"
+               parentComponent="MAINPANEL" showTextBox="0">
+      <Component type="ScriptLabel" id="MASTER" x="53" y="2" width="50" height="10"
+                 fontName="calibrib" fontSize="10" itemColour2="1118481" textColour="2734686207"
+                 editable="0" macroControl="No MacroControl" parentComponent="MASTER VOLUME"
+                 fontStyle="Bold" enabled="0"/>
+    </Component>
+    <Component type="ScriptSlider" id="MASTER IMAGE" x="388" y="8" processorId="MASTER VOLUME"
+               parameterId="Width" style="Horizontal" width="120" height="14"
+               bgColour="496737179" itemColour="2268091256" itemColour2="343968224"
+               textColour="2019467469" max="200" middlePosition="110" defaultValue="100"
+               showValuePopup="Above" showTextBox="0" parentComponent="MAINPANEL">
+      <Component type="ScriptLabel" id="IMAGE" x="29" y="2" width="50" height="10"
+                 fontName="calibrib" fontSize="10" itemColour2="1118481" textColour="2734686207"
+                 editable="0" macroControl="No MacroControl" processorId="MASTER VOLUME"
+                 parameterId="Width" parentComponent="MASTER IMAGE" fontStyle="Bold"
+                 enabled="0"/>
+    </Component>
+    <Component type="ScriptLabel" id="fx bttnbckg" x="330" y="8" width="38"
+               height="14" parentComponent="MAINPANEL" text="" bgColour="570481884"
+               editable="0" enabled="0" itemColour="859955449" fontName="Calibri"
+               fontSize="10" fontStyle="Bold"/>
+    <Component type="ScriptLabel" id="FX label" x="329" y="7" width="24" height="16"
+               fontName="Calibri" fontSize="14" itemColour2="1118481" textColour="4286296257"
+               editable="0" macroControl="No MacroControl" parentComponent="MAINPANEL"
+               text="FX" fontStyle="Bold" enabled="0"/>
+    <Component type="ScriptButton" id="L1 ENABLE1" x="355" y="12" width="15"
+               height="10" itemColour2="1118481" itemColour="3355443" bgColour="16777215"
+               processorId="MidiMuter1" parameterId="ignoreButton" filmstripImage="{PROJECT_FOLDER}rect_button3inv.png"
+               scaleFactor="0.025" parentComponent="MAINPANEL" textColour="1090031872"
+               saveInPreset="0"/>
+    <Component type="ScriptLabel" id="fx bttnbckg1" x="331" y="9" width="38"
+               height="14" parentComponent="MAINPANEL" text="" bgColour="570481884"
+               editable="0" enabled="0" itemColour="859955449" fontName="Calibri"
+               fontSize="10" fontStyle="Bold"/>
+  </Component>
+  <Component type="ScriptPanel" id="DEVICE NAME AND ANALYZER" x="242" y="507"
+             width="442" height="43" textColour="1849510211" borderRadius="1"
+             itemColour2="1159537199" itemColour="1161456779" borderSize="1.4">
+    <Component type="ScriptFloatingTile" id="Analyser" x="-4" y="1" ContentType="AudioAnalyser"
+               bgColour="3355443" itemColour="4281691797" itemColour2="4282664004"
+               textColour="50315467" Data="{&#13;&#10;  &quot;ProcessorId&quot;: &quot;Analyser1&quot;,&#13;&#10;  &quot;Index&quot;: 1&#13;&#10;}"
+               width="508" height="40" parentComponent="DEVICE NAME AND ANALYZER"/>
+    <Component type="ScriptLabel" id="DEVICE NAME" x="-5" y="1" fontSize="22"
+               text="O   R   C   H   E   S   T   O   O   L   S    |    P  A  R  T"
+               fontName="Calibri" width="420" height="40" editable="0" fontStyle="Bold"
+               textColour="1373031600" parentComponent="DEVICE NAME AND ANALYZER"
+               macroControl="No MacroControl" itemColour2="1118481"/>
+  </Component>
+  <Component type="ScriptPanel" id="ARPPanel" x="2" y="2" width="680" height="504"
+             bgColour="16777215" itemColour2="4278190080" itemColour="3992977408"
+             borderRadius="1" borderSize="3" enableMidiLearn="1" visible="0">
+    <Component type="ScriptLabel" id="LFO I22" x="599" y="11" width="56" height="10"
+               fontName="Calibri" fontStyle="Regular" alignment="right" bgColour="2015413187"
+               textColour="3297692367" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="859955449" parentComponent="ARPPanel" fontSize="11"
+               editable="0" text="RESET"/>
+    <Component type="ScriptLabel" id="LFO I23" x="518" y="11" width="56" height="10"
+               fontName="Calibri" fontStyle="Regular" alignment="right" bgColour="2015413187"
+               textColour="3297692367" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="859955449" parentComponent="ARPPanel" fontSize="11"
+               editable="0" text="BYPASS" enabled="0" visible="0"/>
+    <Component type="ScriptLabel" id="LFO I24" x="437" y="11" width="56" height="10"
+               fontName="Calibri" fontStyle="Regular" alignment="right" bgColour="2015413187"
+               textColour="3297692367" processorId="GLFO 1" parameterId="Enabled"
+               itemColour="859955449" parentComponent="ARPPanel" fontSize="11"
+               editable="0" text="SORT"/>
+    <Component type="ScriptSliderPack" id="ARP NOTE" x="74" y="32" parentComponent="ARPPanel"
+               processorId="ARP" height="215" width="600" bgColour="1531858510"
+               itemColour="2593480984" itemColour2="635425189" textColour="4282528276"/>
+    <Component type="ScriptSliderPack" id="ARP VELOCITY" x="74" y="252" parentComponent="ARPPanel"
+               processorId="ARP" SliderPackIndex="1" width="600" height="121"
+               bgColour="1531858510" itemColour="2521585855" itemColour2="635425189"
+               textColour="4279970377"/>
+    <Component type="ScriptSliderPack" id="ARP LENGTH" x="74" y="378" parentComponent="ARPPanel"
+               saveInPreset="0" processorId="ARP" SliderPackIndex="2" height="121"
+               width="600" bgColour="1531858510" itemColour="1713342612" itemColour2="635425189"
+               textColour="3339135277"/>
+    <Component type="ScriptComboBox" id="ComboBox1" x="7" y="9" max="5" parentComponent="ARPPanel"
+               width="64" height="18" processorId="ARP" parameterId="SequenceComboBox"
+               items="U&#10;D&#10;U-D&#10;D-U&#10;RND" fontSize="10" fontName="Calibri"
+               bgColour="2181710674" itemColour="2068400457" itemColour2="2672650363"
+               textColour="2809901249"/>
+    <Component type="ScriptSlider" id="ARP STEPS" x="41" y="32" style="Vertical"
+               width="28" height="214" parentComponent="ARPPanel" processorId="ARP"
+               parameterId="NumStepSlider" max="32" stepSize="1" defaultValue="16"
+               itemColour="2593480984" bgColour="1531858510" itemColour2="266326437"
+               textColour="2394533273" showValuePopup="Right"/>
+    <Component type="ScriptSlider" id="ARP TIME" x="7" y="32" style="Vertical"
+               width="30" height="214" parentComponent="ARPPanel" processorId="ARP"
+               parameterId="SpeedKnob" max="32" stepSize="1" defaultValue="16"
+               mode="TempoSync" showValuePopup="Right" bgColour="1531858510"
+               itemColour="2593480984" itemColour2="266326437" textColour="2394533273"/>
+    <Component type="ScriptSlider" id="ARP SKIP" x="41" y="252" style="Vertical"
+               width="28" height="120" parentComponent="ARPPanel" processorId="ARP"
+               parameterId="StepSkipSlider" max="12" stepSize="1" defaultValue="1"
+               min="-12" itemColour="2521585855" bgColour="1531858510" itemColour2="266326437"
+               textColour="2394533273" showValuePopup="Right"/>
+    <Component type="ScriptSlider" id="ARP SHUFFLE" x="41" y="378" style="Vertical"
+               width="28" height="120" parentComponent="ARPPanel" processorId="ARP"
+               parameterId="Shuffle" defaultValue="1" mode="NormalizedPercentage"
+               suffix="%" middlePosition="0.5" showValuePopup="Right" itemColour="1713342612"
+               bgColour="1531858510" itemColour2="266326437" textColour="2394533273"/>
+    <Component type="ScriptSlider" id="ARP STEP RESET" x="7" y="252" style="Vertical"
+               width="30" height="120" parentComponent="ARPPanel" processorId="ARP"
+               parameterId="StepReset" max="32" stepSize="1" showValuePopup="Right"
+               bgColour="1531858510" itemColour="2521585855" itemColour2="266326437"
+               textColour="2394533273"/>
+    <Component type="ScriptSlider" id="ARP OCTAVE RANGE" x="7" y="378" style="Vertical"
+               width="30" height="120" parentComponent="ARPPanel" processorId="ARP"
+               parameterId="OctaveRange" max="4" stepSize="1" min="-2" showValuePopup="Right"
+               bgColour="1531858510" itemColour="1713342612" itemColour2="266326437"
+               textColour="2394533273" middlePosition="0"/>
+    <Component type="ScriptButton" id="Button1" x="437" y="13" parentComponent="ARPPanel"
+               width="60" height="8" processorId="ARP" parameterId="SortKeysButton"
+               text="SORT KEYS" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025"/>
+    <Component type="ScriptButton" id="Button2" x="518" y="13" parentComponent="ARPPanel"
+               width="60" height="8" processorId="ARP" parameterId="Bypass"
+               text="BYPASS" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025" enabled="0" visible="0" defaultValue="1"/>
+    <Component type="ScriptButton" id="Button3" x="599" y="13" parentComponent="ARPPanel"
+               width="60" height="10" processorId="ARP" parameterId="ResetButton"
+               text="RESET" isMomentary="1" filmstripImage="{PROJECT_FOLDER}rect_button2.png"
+               scaleFactor="0.025"/>
+    <Component type="ScriptLabel" id="ARP TIME lab" x="2" y="236" text="TIME"
+               width="40" height="10" fontName="Arial Rounded MT" fontSize="8"
+               itemColour2="1118481" textColour="4291281270" editable="0" fontStyle="Regular"
+               macroControl="No MacroControl" parentComponent="ARPPanel" enabled="0"/>
+    <Component type="ScriptLabel" id="ARP STEPS lab" x="35" y="236" text="STEPS"
+               width="40" height="10" fontName="Arial Rounded MT" fontSize="8"
+               itemColour2="1118481" textColour="4291281270" editable="0" fontStyle="Regular"
+               macroControl="No MacroControl" parentComponent="ARPPanel" enabled="0"/>
+    <Component type="ScriptLabel" id="ARP STEPS lab1" x="2" y="352" text="STEP     RESET"
+               width="40" height="20" fontName="Arial Rounded MT" fontSize="8"
+               itemColour2="1118481" textColour="4291281270" editable="0" fontStyle="Regular"
+               macroControl="No MacroControl" parentComponent="ARPPanel" multiline="1"
+               enabled="0"/>
+    <Component type="ScriptLabel" id="ARP STEPS lab2" x="35" y="352" text="STEP       SKIP"
+               width="40" height="20" fontName="Arial Rounded MT" fontSize="8"
+               itemColour2="1118481" textColour="4291281270" editable="0" fontStyle="Regular"
+               macroControl="No MacroControl" parentComponent="ARPPanel" multiline="1"
+               enabled="0"/>
+    <Component type="ScriptLabel" id="ARP OCTAVE RANGE lab" x="2" y="479" text="8VE     RANGE"
+               width="40" height="20" fontName="Arial Rounded MT" fontSize="8"
+               itemColour2="1118481" textColour="4291281270" editable="0" fontStyle="Regular"
+               macroControl="No MacroControl" parentComponent="ARPPanel" multiline="1"
+               enabled="0"/>
+    <Component type="ScriptLabel" id="ARP SHUFFLE lab" x="36" y="479" text="SHU      FFLE"
+               width="40" height="20" fontName="Arial Rounded MT" fontSize="8"
+               itemColour2="1118481" textColour="4291281270" editable="0" fontStyle="Regular"
+               macroControl="No MacroControl" parentComponent="ARPPanel" enabled="0"/>
+    <Component type="ScriptLabel" id="ARP TIME lab1" x="74" y="236" text="PITCH"
+               width="40" height="10" fontName="Arial Rounded MT" fontSize="8"
+               itemColour2="1118481" textColour="4291281270" editable="0" fontStyle="Regular"
+               macroControl="No MacroControl" parentComponent="ARPPanel" enabled="0"
+               alignment="left"/>
+    <Component type="ScriptLabel" id="ARP TIME lab2" x="74" y="362" text="VELOCITY"
+               width="50" height="10" fontName="Arial Rounded MT" fontSize="8"
+               itemColour2="1118481" textColour="4291281270" editable="0" fontStyle="Regular"
+               macroControl="No MacroControl" parentComponent="ARPPanel" enabled="0"
+               alignment="left"/>
+    <Component type="ScriptLabel" id="ARP TIME lab3" x="74" y="488" text="LENGTH"
+               width="45" height="10" fontName="Arial Rounded MT" fontSize="8"
+               itemColour2="1118481" textColour="4291281270" editable="0" fontStyle="Regular"
+               macroControl="No MacroControl" parentComponent="ARPPanel" enabled="0"
+               alignment="left"/>
+    <Component type="ScriptComboBox" id="ComboBox2" x="75" y="9" max="17" parentComponent="ARPPanel"
+               width="64" height="18" processorId="ARP" parameterId="ChannelSelector"
+               items="all&#10;1&#10;2&#10;3&#10;4&#10;5&#10;6&#10;7&#10;8&#10;9&#10;10&#10;11&#10;12&#10;13&#10;14&#10;15&#10;16&#10;"
+               fontSize="10" fontName="Calibri" bgColour="2181710674" itemColour="2068400457"
+               itemColour2="2672650363" textColour="2809901249"/>
+  </Component>
+  <Component type="ScriptPanel" id="LIBRARYBROWSER" x="4" y="4" width="680"
+             height="500" bgColour="956301311" itemColour2="3127805095" itemColour="1001116908"
+             borderRadius="2" borderSize="1" visible="0">
+    <Component type="ScriptFloatingTile" id="LIBBROWSER" x="2" y="3" ContentType="PresetBrowser"
+               bgColour="4118642045" itemColour="2969567232" itemColour2="3870010283"
+               Data="{&#13;&#10;  &quot;ShowSaveButton&quot;: true,&#13;&#10;  &quot;ShowFolderButton&quot;: true,&#13;&#10;  &quot;ShowNotes&quot;: true,&#13;&#10;  &quot;ShowEditButtons&quot;: true,&#13;&#10;  &quot;ShowFavoriteIcon&quot;: true,&#13;&#10;  &quot;NumColumns&quot;: 3&#13;&#10;}"
+               width="676" height="496" textColour="3206553632" itemColour3="3386958048"
+               Font="Calibri" FontSize="12" parentComponent="LIBRARYBROWSER"/>
+  </Component>
+  <Component type="ScriptPanel" id="MIDILearnPanel" x="120" y="9" width="450"
+             height="468" itemColour2="4280426526" itemColour="1851486649"
+             bgColour="1090519039" visible="0">
+    <Component type="ScriptFloatingTile" id="MIDILP" x="4" y="4" itemColour="4282404209"
+               bgColour="4280426526" ContentType="MidiLearnPanel" itemColour2="0"
+               Data="{&#13;&#10;}" textColour="4288124823" width="442" height="420"
+               itemColour3="4278190080" Font="Calibri" parentComponent="MIDILearnPanel"/>
+    <Component type="ScriptFloatingTile" id="CLEAR MIDI" x="4" y="414" width="442"
+               height="50" parentComponent="MIDILearnPanel" ContentType="CustomSettings"
+               bgColour="4280426526" itemColour="4282404209" itemColour2="4278190080"
+               Data="{&#13;&#10;  &quot;Driver&quot;: false,&#13;&#10;  &quot;Device&quot;: false,&#13;&#10;  &quot;Output&quot;: false,&#13;&#10;  &quot;BufferSize&quot;: false,&#13;&#10;  &quot;SampleRate&quot;: false,&#13;&#10;  &quot;GlobalBPM&quot;: false,&#13;&#10;  &quot;StreamingMode&quot;: false,&#13;&#10;  &quot;ScaleFactor&quot;: false,&#13;&#10;  &quot;VoiceAmountMultiplier&quot;: false,&#13;&#10;  &quot;ClearMidiCC&quot;: true,&#13;&#10;  &quot;SampleLocation&quot;: false,&#13;&#10;  &quot;DebugMode&quot;: false,&#13;&#10;  &quot;ScaleFactorList&quot;: [&#13;&#10;    0.5,&#13;&#10;    0.75,&#13;&#10;    1.0,&#13;&#10;    1.25,&#13;&#10;    1.5,&#13;&#10;    2.0&#13;&#10;  ]&#13;&#10;}"
+               textColour="4288124823" itemColour3="4278190080"/>
+  </Component>
+  <Component type="ScriptPanel" id="SettingsPanel" x="112" y="8" width="457"
+             height="488" bgColour="16777215" itemColour2="3660656952" itemColour="1648314705"
+             textColour="4113312812" borderSize="14" borderRadius="0" visible="0">
+    <Component type="ScriptImage" id="SettBCKG" x="3" y="3" width="450" height="480"
+               parentComponent="SettingsPanel" fileName="{PROJECT_FOLDER}settingsbck.png">
+      <Component type="ScriptFloatingTile" id="CustomSettings" x="-5" y="4" parentComponent="SettBCKG"
+                 ContentType="CustomSettings" bgColour="4278190080" itemColour="4294951115"
+                 itemColour2="4294951115" Data="{&#13;&#10;  &quot;Driver&quot;: true,&#13;&#10;  &quot;Device&quot;: true,&#13;&#10;  &quot;Output&quot;: true,&#13;&#10;  &quot;BufferSize&quot;: true,&#13;&#10;  &quot;SampleRate&quot;: true,&#13;&#10;  &quot;GlobalBPM&quot;: true,&#13;&#10;  &quot;StreamingMode&quot;: true,&#13;&#10;  &quot;ScaleFactor&quot;: true,&#13;&#10;  &quot;VoiceAmountMultiplier&quot;: true,&#13;&#10;  &quot;ClearMidiCC&quot;: false,&#13;&#10;  &quot;SampleLocation&quot;: true,&#13;&#10;  &quot;DebugMode&quot;: false,&#13;&#10;  &quot;ScaleFactorList&quot;: [&#13;&#10;    0.5,&#13;&#10;    0.75,&#13;&#10;    1.0,&#13;&#10;    1.25,&#13;&#10;    1.5,&#13;&#10;    2.0&#13;&#10;  ]&#13;&#10;}"
+                 width="271" height="457" Font="Calibri" FontSize="12"/>
+      <Component type="ScriptFloatingTile" id="MIDISources" x="254" y="17" parentComponent="SettBCKG"
+                 ContentType="MidiSources" bgColour="4278190080" itemColour="4294951115"
+                 itemColour2="4294951115" Data="{&#13;&#10;}" width="183" height="180"/>
+      <Component type="ScriptLabel" id="About1" x="255" y="183" parentComponent="SettBCKG"
+                 width="185" height="58" text="ORCHESTOOLS | 306" multiline="1"
+                 fontName="Calibri" fontStyle="Bold" fontSize="20" textColour="4288519581"/>
+      <Component type="ScriptLabel" id="about2" x="256" y="222" parentComponent="SettBCKG"
+                 width="184" height="121" text="by JAZZAIR'S INSTRUMENTS musictop69.wixsite.com/orchestools _______________________________ made with HISE |http://hise.audio| _______________________________     *utilising scripts by generous members of HISE forum,thank you all"
+                 multiline="1" fontName="Calibri" fontSize="16" textColour="4288519581"
+                 fontStyle="Bold" editable="0"/>
+      <Component type="ScriptImage" id="VersilianLOGO" x="354" y="415" parentComponent="SettBCKG"
+                 fileName="{PROJECT_FOLDER}vs_logo.png" width="43" height="52"/>
+      <Component type="ScriptLabel" id="about3" x="260" y="331" parentComponent="SettBCKG"
+                 width="175" height="90" text="HISE is published under the GPLv3 open source license,  VSCO 2 Community Edition (CE) library is under a Creative Commons 0, OT306 is published under the GPLv3 open source licence"
+                 multiline="1" fontName="Calibri" fontSize="12" textColour="4288519581"
+                 fontStyle="Bold" editable="0"/>
+      <Component type="ScriptImage" id="VersilianLOGO1" x="296" y="419" parentComponent="SettBCKG"
+                 width="40" height="44" fileName="{PROJECT_FOLDER}HISE.png"/>
+    </Component>
+  </Component>
+</ContentProperties>

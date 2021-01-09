@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="XP1_PAD 2" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\VlnEns_Harm_A5.wav"
+          Root="93" HiKey="127" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-4" Pan="0" Normalized="1" Pitch="0" SampleStart="22834"
+          SampleEnd="466058" SampleStartMod="178144" LoopStart="237684"
+          LoopEnd="421560" LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" MonolithOffset="0" MonolithLength="466944"
+          SampleRate="44100" Duplicate="0" NormalizedPeak="19.492565"/>
+</samplemap>

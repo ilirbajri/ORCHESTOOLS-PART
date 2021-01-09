@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="HARP 2" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\KSHarp_A4_mf1.wav"
+          Root="69" HiKey="57" LoKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="797"
+          SampleEnd="535893" SampleStartMod="13000" LoopStart="0" LoopEnd="535893"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="0" MonolithLength="536576" SampleRate="44100"
+          Duplicate="0" NormalizedPeak="6.0780931"/>
+  <sample ID="1" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\KSHarp_A6_mf1.wav"
+          Root="93" HiKey="127" LoKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-2" Pan="0" Normalized="1" Pitch="12" SampleStart="1674"
+          SampleEnd="159206" SampleStartMod="13000" LoopStart="0" LoopEnd="159206"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="536576" MonolithLength="159744"
+          SampleRate="44100" Duplicate="0" NormalizedPeak="17.692764"/>
+  <sample ID="3" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\KSHarp_B3_mf1.wav"
+          Root="59" HiKey="48" LoKey="40" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="1474"
+          SampleEnd="495271" SampleStartMod="13000" LoopStart="0" LoopEnd="495271"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="696320" MonolithLength="495616"
+          SampleRate="44100" Duplicate="0" NormalizedPeak="16.582489"/>
+  <sample ID="4" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\KSHarp_B5_mf1.wav"
+          Root="83" HiKey="78" LoKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-4" Pan="0" Normalized="1" Pitch="0" SampleStart="902"
+          SampleEnd="194753" SampleStartMod="13000" LoopStart="0" LoopEnd="194753"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="1191936" MonolithLength="196608"
+          SampleRate="44100" Duplicate="0" NormalizedPeak="18.408426"/>
+  <sample ID="5" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\KSHarp_C5_mf1.wav"
+          Root="72" HiKey="67" LoKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="972"
+          SampleEnd="309274" SampleStartMod="13000" LoopStart="0" LoopEnd="309274"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="1388544" MonolithLength="311296"
+          SampleRate="44100" Duplicate="0" NormalizedPeak="7.2094612"/>
+  <sample ID="7" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\KSHarp_D4_mf1.wav"
+          Root="62" HiKey="52" LoKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="1112"
+          SampleEnd="480411" SampleStartMod="13000" LoopStart="0" LoopEnd="480411"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="1699840" MonolithLength="483328"
+          SampleRate="44100" Duplicate="0" NormalizedPeak="10.583656"/>
+  <sample ID="8" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\KSHarp_A2_mf1.wav"
+          Root="45" HiKey="39" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="5843"
+          SampleEnd="501906" SampleStartMod="13000" LoopStart="0" LoopEnd="501906"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="2183168" MonolithLength="503808"
+          SampleRate="44100" Duplicate="0" NormalizedPeak="27.489094"/>
+</samplemap>

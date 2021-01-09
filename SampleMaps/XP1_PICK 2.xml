@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="XP1_PICK 2" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="61" LoKey="0" HiKey="126" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Knight/Releases/Player_rel_rr1_C#2.wav"
+          Duplicate="1" SampleStartMod="10000" Volume="-3" SampleStart="772"
+          MonolithOffset="0" MonolithLength="270336" SampleRate="44100"
+          Normalized="1" NormalizedPeak="26.7704"/>
+</samplemap>

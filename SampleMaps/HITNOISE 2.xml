@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="HITNOISE 2" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="36" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_C1_vl3_rr1.wav"
+          Duplicate="0" Volume="1" Normalized="1" NormalizedPeak="59.9435"
+          SampleStartMod="5000" MonolithOffset="0" MonolithLength="77824"
+          SampleRate="44100" LowerVelocityXFade="127"/>
+  <sample Root="48" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Rel/JHPiano_NoSusRel_Close_C2_vl3_rr1.wav"
+          Duplicate="0" Volume="1" Normalized="1" NormalizedPeak="118.151"
+          SampleStartMod="5000" MonolithOffset="77824" MonolithLength="77824"
+          SampleRate="44100" UpperVelocityXFade="127"/>
+</samplemap>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="HITNOISE 3" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="58" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Releases/High/HarpsiRH_HighRel_Far_A#2_rr1.wav"
+          Duplicate="0" Volume="-6" Normalized="1" NormalizedPeak="33.0358"
+          SampleStartMod="5000" MonolithOffset="0" MonolithLength="36864"
+          SampleRate="44100" UpperVelocityXFade="0" LowerVelocityXFade="127"/>
+  <sample Root="73" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Releases/High/HarpsiRH_HighRel_Far_C#4_rr1.wav"
+          Duplicate="0" Volume="-6" Normalized="1" NormalizedPeak="39.3213"
+          SampleStartMod="5000" MonolithOffset="36864" MonolithLength="53248"
+          SampleRate="44100" SampleEnd="51031" UpperVelocityXFade="127"
+          LowerVelocityXFade="0"/>
+</samplemap>

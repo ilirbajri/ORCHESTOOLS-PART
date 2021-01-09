@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="MARIMBA" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="3" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Marimba_hit_Outrigger_B2_med_02.wav"
+          Root="59" HiKey="127" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-6" Pan="0" Normalized="1" Pitch="0" SampleStart="236"
+          SampleEnd="238176" SampleStartMod="8000" LoopStart="0" LoopEnd="238176"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="0" MonolithLength="241664"
+          SampleRate="44100" NormalizedPeak="57.790119"/>
+  <sample ID="5" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Marimba_hit_Outrigger_C2_med_01.wav"
+          Root="48" HiKey="127" LoKey="0" LoVel="40" HiVel="127" RRGroup="1"
+          Volume="-10" Pan="0" Normalized="1" Pitch="0" SampleStart="131"
+          SampleEnd="297501" SampleStartMod="8000" LoopStart="0" LoopEnd="297501"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="87" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="241664" MonolithLength="299008"
+          SampleRate="44100" NormalizedPeak="63.256756"/>
+</samplemap>

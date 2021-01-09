@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="BRASS 1" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="1" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\7TbnEns_sus_A#2_v3_rr1_Sum.wav"
+          Root="58" HiKey="60" LoKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="5" Pan="0" Normalized="0" Pitch="0" SampleStart="0" SampleEnd="218837"
+          SampleStartMod="30000" LoopStart="55866" LoopEnd="139029" LoopXFade="25000"
+          LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" NormalizedPeak="2.5050072669982910156" MonolithOffset="0"
+          MonolithLength="221184" SampleRate="44100" Duplicate="0"/>
+  <sample ID="5" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\7TbnEns_sus_F2_v3_rr1_Sum.wav"
+          Root="53" HiKey="57" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="5" Pan="0" Normalized="0" Pitch="0" SampleStart="2500"
+          SampleEnd="248313" SampleStartMod="61895" LoopStart="89917" LoopEnd="156155"
+          LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" NormalizedPeak="3.5870826244354248047" MonolithOffset="221184"
+          MonolithLength="249856" SampleRate="44100" Duplicate="0"/>
+  <sample ID="6" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\7TbnEns_sus_F3_v3_rr1_Sum.wav"
+          Root="65" HiKey="127" LoKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="5" Pan="0" Normalized="0" Pitch="0" SampleStart="4000"
+          SampleEnd="219700" SampleStartMod="36769" LoopStart="122278"
+          LoopEnd="169871" LoopXFade="22000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" NormalizedPeak="2.2367236614227294922"
+          MonolithOffset="471040" MonolithLength="221184" SampleRate="44100"
+          Duplicate="0"/>
+</samplemap>
